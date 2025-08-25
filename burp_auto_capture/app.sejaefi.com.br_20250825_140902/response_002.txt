@@ -1,0 +1,46 @@
+HTTP/2 200 OK
+Date: Mon, 25 Aug 2025 17:07:20 GMT
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: AWSALB=YP4PpIluZQylnx6p9M2PTBaiOpGZrnuipvl/30OQTYSsCVjr0EW/YyHOykyxMIVnSrbmYwbivU7H2bjybofPpdldU8PcgUbreHOHv9guPZiLNpwrNr1+RdtLXzlgoTc1Crcq7FuKCbyR9DVPGOGK999tIGa3U0F93xPkceoPwMmLKMXgV5JddEFYPlmw1w==; Expires=Mon, 01 Sep 2025 17:07:20 GMT; Path=/
+Set-Cookie: AWSALBCORS=YP4PpIluZQylnx6p9M2PTBaiOpGZrnuipvl/30OQTYSsCVjr0EW/YyHOykyxMIVnSrbmYwbivU7H2bjybofPpdldU8PcgUbreHOHv9guPZiLNpwrNr1+RdtLXzlgoTc1Crcq7FuKCbyR9DVPGOGK999tIGa3U0F93xPkceoPwMmLKMXgV5JddEFYPlmw1w==; Expires=Mon, 01 Sep 2025 17:07:20 GMT; Path=/; SameSite=None; Secure
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://gerennet.my.site.com https://googleads.g.doubleclick.net https://*.google.com https://www.gstatic.com https://snap.licdn.com https://websdk.appsflyer.com https://*.clarity.ms https://*.amplitude.com https://*.sejaefi.com.br; img-src 'self' blob: data: https://pe85007.s3.sa-east-1.amazonaws.com https://gerencianet-pub-prod-1.s3.us-east-1.amazonaws.com https://gerencianet-pub-prod-1.s3.amazonaws.com https://*.google.com https://*.google.com.br https://px.ads.linkedin.com https://www.googletagmanager.com https://*.sejaefi.com.br https://*.clarity.ms; font-src 'self' data: https://fonts.gstatic.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://gerennet.my.site.com; connect-src 'self' blob: data: https://*.google.com https://google.com https://gerennet.my.salesforce-scrt.com https://px.ads.linkedin.com https://stats.g.doubleclick.net https://*.amplitude.com https://*.clarity.ms https://*.appsflyer.com https://*.sejaefi.com.br; frame-src https://*.google.com https://td.doubleclick.net https://gerennet.my.site.com https://www.googletagmanager.com https://www.youtube.com; frame-ancestors 'self' https://www.google.com/;
+Strict-Transport-Security: max-age=15768000; includeSubDomains; preload
+Last-Modified: Mon, 25 Aug 2025 12:44:07 GMT
+Vary: Accept-Encoding,User-Agent
+Cf-Cache-Status: DYNAMIC
+Server-Timing: cfCacheStatus;desc="DYNAMIC"
+Server-Timing: cfOrigin;dur=91,cfEdge;dur=33
+Server: cloudflare
+Cf-Ray: 974caf628864e1d1-MRS
+Alt-Svc: h3=":443"; ma=86400
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="/favicon.ico">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="Referrer-Policy" content="strict-origin-when-cross-origin">
+  <title>EfÃ­ </title>
+  <script type="module" crossorigin src="/assets/index-23bbbd9d.js"></script>
+  <link rel="stylesheet" href="/assets/index-b50471b4.css">
+</head>
+
+<body>
+  <!-- GTM -->
+  <noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-58FCSP" height="0" width="0"
+      style="display:none;visibility:hidden">
+    </iframe>
+  </noscript>
+  <!-- FIM GTM -->
+  <div id="app"></div>
+  
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"974caf628864e1d1","serverTiming":{"name":{"cfExtPri":true,"cfEdge":true,"cfOrigin":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"version":"2025.8.0","token":"95716dc7cb1d47d0b11c351e9104e239"}' crossorigin="anonymous"></script>
+</body>
+
+</html>
