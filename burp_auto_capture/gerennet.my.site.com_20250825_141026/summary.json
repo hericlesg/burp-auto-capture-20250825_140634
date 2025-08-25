@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250825_141026", 
+  "requests": [
+    {
+      "method": "HEAD", 
+      "request_file": "burp_auto_capture/gerennet.my.site.com_20250825_141026/request_001.txt", 
+      "url": "https://gerennet.my.site.com:443/ESWMiawChatWebUsuario1722861636419/?lwc.mode=prod&lwr.linkHeaders=true", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/gerennet.my.site.com_20250825_141026/response_001.txt", 
+      "timestamp": 1756141645003
+    }
+  ], 
+  "host": "gerennet.my.site.com", 
+  "total_requests": 1
+}
