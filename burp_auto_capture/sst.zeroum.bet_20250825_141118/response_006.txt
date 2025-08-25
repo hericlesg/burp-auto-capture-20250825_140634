@@ -1,0 +1,28 @@
+HTTP/2 200 OK
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Cache-Control: no-cache
+Content-Type: text/plain
+Date: Mon, 25 Aug 2025 15:21:14 GMT
+Set-Cookie: FPID=FPID2.2.3Nb4whZGfqUwS1P4EclMJdHKbMDBxVx2rlmHU55kLtA%3D.1755192962; Max-Age=63072000; Domain=zeroum.bet; Path=/; Secure; HttpOnly
+Set-Cookie: FPAU=1.1.541171167.1755192961; Max-Age=6833687; Domain=zeroum.bet; Path=/; Secure
+Trace-Id: 32f01ef2-6588-4d1f-886b-c35565798115
+X-Accel-Buffering: no
+X-Content-Type-Options: nosniff
+X-Robots-Tag: noindex, nofollow
+
+event: message
+data: {"send_pixel":["https://www.google.com.br/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&dma=0&npa=0&gcd=13l3l3l3l1l1&tid=G-R38GP7L2V4&cid=3Nb4whZGfqUwS1P4EclMJdHKbMDBxVx2rlmHU55kLtA%3D.1755192962&gtm=45P91e58k1v9187957930z89187974028z99226831139za200zb9187974028zd9187974028&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105399921~105399923&_is_sw=0&_tu=BA&aip=1&z=720481443"],"options":{}}
+
+event: message
+data: {"send_pixel":["https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17392367413/?random=1014322345&fst=1756135274546&cv=10&fmt=3&bg=ffffff&guid=ON&u_w=2560&u_h=1080&gtm=45P91e58k1v9187957930z89187974028z99226831139za200zb9187974028zd9187974028&url=https%3A%2F%2Fwww.zeroum.bet%2F&tiba=Zeroum%20%7C%20Plataforma%20Nova%20de%20Apostas%20Esportivas%20e%20Cassino%20Online%20%7C%20A%20Melhor%20do%20Brasil&data=event%3Dsign_up&userId=6276710&auid=541171167.1755192961&dma=0&npa=0&gcd=13l3l3l3l1l1&pscdl=noapi&_is_sw=0&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105399921~105399923&_tu=BA"],"options":{}}
+
+event: message
+data: {"send_pixel":["https://www.google.com/pagead/1p-conversion/17392367413/?random=547435884&fst=1756135274562&cv=10&fmt=3&label=NE1sCK3Y3oUbELXuqeVA&bg=ffffff&guid=ON&u_w=2560&u_h=1080&gtm=45P91e58k1v9187957930z89187974028z99226831139za200zb9187974028zd9187974028&auid=541171167.1755192961&dma=0&npa=0&gcd=13l3l3l3l1l1&pscdl=noapi&url=https%3A%2F%2Fwww.zeroum.bet%2F&tiba=Zeroum%20%7C%20Plataforma%20Nova%20de%20Apostas%20Esportivas%20e%20Cassino%20Online%20%7C%20A%20Melhor%20do%20Brasil&data=event%3Dsign_up&bttype=purchase&ec_mode=c&em=tv.1~em.eHxj6UNcBFxwSvWh5uqni_kIqXfOwDOek1OoGtpKoIo&value=0&uip=177.149.137.0&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105399921~105399923&_tu=BA&s3p=1&_is_sw=0&gcp=1&sscte=1&ct_cookie_present=1"],"options":{"attribution_reporting":true}}
+
+event: message
+data: {"send_pixel":["https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17392367413/?random=547435884&fst=1756135274562&cv=10&fmt=3&label=NE1sCK3Y3oUbELXuqeVA&bg=ffffff&guid=ON&u_w=2560&u_h=1080&gtm=45P91e58k1v9187957930z89187974028z99226831139za200zb9187974028zd9187974028&auid=541171167.1755192961&dma=0&npa=0&gcd=13l3l3l3l1l1&pscdl=noapi&url=https%3A%2F%2Fwww.zeroum.bet%2F&tiba=Zeroum%20%7C%20Plataforma%20Nova%20de%20Apostas%20Esportivas%20e%20Cassino%20Online%20%7C%20A%20Melhor%20do%20Brasil&data=event%3Dsign_up&bttype=purchase&ec_mode=c&em=tv.1~em.eHxj6UNcBFxwSvWh5uqni_kIqXfOwDOek1OoGtpKoIo&value=0&uip=177.149.137.0&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105399921~105399923&_tu=BA&s3p=1&_is_sw=0&gcp=1&ct_cookie_present=1"],"options":{"attribution_reporting":true}}
+
+event: message
+data: {"response":{"status_code":200,"body":""}}
+
