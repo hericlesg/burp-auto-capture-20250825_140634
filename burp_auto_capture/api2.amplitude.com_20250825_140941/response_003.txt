@@ -1,0 +1,8 @@
+HTTP/2 200 OK
+Date: Mon, 25 Aug 2025 17:08:21 GMT
+Content-Type: application/json
+Content-Length: 93
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=15768000
+
+{"code":200,"server_upload_time":1756141701115,"payload_size_bytes":1210,"events_ingested":2}
