@@ -1,0 +1,22 @@
+HTTP/1.1 101 Switching Protocols
+Date: Mon, 25 Aug 2025 15:17:11 GMT
+Connection: upgrade
+Set-Cookie: AWSALB=lg0xbImvGSIVzA4qHuylMh1N/dYHErzYkUDoyuE/OuLCsc47DFf7CC8sNKtw4wSaaShCDHYqA3W4DwVXaqMP+5dIhqFjKGE4OrNxL+NgWNDkHOJSpwdURukjzE7c; Expires=Mon, 01 Sep 2025 15:17:11 GMT; Path=/
+Set-Cookie: AWSALBCORS=lg0xbImvGSIVzA4qHuylMh1N/dYHErzYkUDoyuE/OuLCsc47DFf7CC8sNKtw4wSaaShCDHYqA3W4DwVXaqMP+5dIhqFjKGE4OrNxL+NgWNDkHOJSpwdURukjzE7c; Expires=Mon, 01 Sep 2025 15:17:11 GMT; Path=/; SameSite=None; Secure
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Upgrade: websocket
+Vary: Origin
+X-Frame-Options: DENY
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Sec-WebSocket-Accept: K1xTgtzXxOsLmdpw2X6MWsYy6P8=
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=3neoaqevflOLUbRqbGQez2WWdLUeMzckLwvu1s6foJdcliEV34ktOPZPrWW5uFFXs2Pu05ABR5eWNSHnWDFU9nkOYutLHHSh5ybJMSWpDScbOncHi%2B3tSUIGRo%2BQwkO9qwpfuy7o3A%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 974c0e074cdf727f-HAM
+server-timing: cfL4;desc="?proto=TCP&rtt=194280&min_rtt=192849&rtt_var=73341&sent=6&recv=6&lost=0&retrans=0&sent_bytes=3110&recv_bytes=1738&delivery_rate=22587&cwnd=33&unsent_bytes=0&cid=57610f4cf3606ccd&ts=761&x=0"
+
