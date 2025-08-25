@@ -1,0 +1,15 @@
+HTTP/2 200 OK
+Date: Mon, 25 Aug 2025 17:07:20 GMT
+X-Scrt-Correlation-Id: 679f8f1c1fdf1346
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-Frame-Options: DENY
+Access-Control-Allow-Origin: https://app.sejaefi.com.br
+Access-Control-Allow-Methods: GET
+Content-Type: application/json;charset=utf-8
+
+{"businessHoursInfo":{"name":"Default","isActive":true,"businessHours":[{"startTime":1756116000000,"endTime":1756170000000},{"startTime":1756202400000,"endTime":1756256400000}]},"timestamp":1756135368401}
