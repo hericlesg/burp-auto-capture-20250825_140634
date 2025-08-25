@@ -1,0 +1,18 @@
+POST /wa/?medium=fetch HTTP/2
+Host: px.ads.linkedin.com
+Cookie: li_sugr=b405fbf7-1525-4ba8-8512-983a2defebcf; bcookie="v=2&0191b8b4-8e92-451e-8590-761e0b439756"; UserMatchHistory=AQIIKGZkK1J5hQAAAZjiMQoUVDZrS1gVXJHerYf7E8M5YuPydihTYCbJFlXepZfc_2MkFj8CQvhsCw; AnalyticsSyncHistory=AQJ0t-eA1FDxKwAAAZjiMQoV0pd7H5yHZLkVA6wRg-Y8kxspUdJWErRtTFL3_hUX0sdo9UGqBE_0efs9-nSBQA; lidc="b=OGST03:s=O:r=O:a=O:p=O:g=3646:u=1:x=1:i=1756141521:t=1756227921:v=2:sig=AQGBqT8xeMr-2mOLZYCWF4-4B3qtqbUC"; __cf_bm=JLWG4HWRequB7mtYDmtzEQaU5QDBvhwJtViRuh1dU1U-1756141521-1.0.1.1-YnHHOhGfu_P5MYDAmThM3MduRTyX_kt7S5vavefB2idiVEbhrFfcDR48s2zbc7cugqytVWIk.nPW2Z50CM7EXiXLEqWx7BRWMgCGylM5zoM
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: *
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: text/plain;charset=UTF-8
+Referer: https://app.sejaefi.com.br/
+Content-Length: 356
+Origin: https://app.sejaefi.com.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+
+{"pids":[5044609],"scriptVersion":254,"time":1756141666822,"domain":"app.sejaefi.com.br","url":"https://app.sejaefi.com.br/pix/fazer-pix/chave","pageTitle":"EfÃ­","websiteSignalRequestId":"8a0e3aa4-dad3-9071-843c-cf7092222e08","isTranslated":false,"liFatId":"","liGiant":"","misc":{"psbState":-4},"isLinkedInApp":false,"hem":null,"signalType":"PAGE_VISIT"}
