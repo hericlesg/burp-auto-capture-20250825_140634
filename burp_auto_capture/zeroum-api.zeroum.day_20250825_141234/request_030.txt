@@ -1,0 +1,19 @@
+POST /basehub/negotiate?languageId=pt&negotiateVersion=1 HTTP/2
+Host: zeroum-api.zeroum.day
+Cookie: AWSALB=e/zYpSayHLfre9GYtgg/Ls7UQE2EzzSAD7eeu32oW7z54O+bIkGW+GXb68R6hY60lP53Z6jp83gKwieWiuvSqjAh1wGK8XIhuYF7kJyMRpZy+4a6iS8mmKlCgTf1; AWSALBCORS=e/zYpSayHLfre9GYtgg/Ls7UQE2EzzSAD7eeu32oW7z54O+bIkGW+GXb68R6hY60lP53Z6jp83gKwieWiuvSqjAh1wGK8XIhuYF7kJyMRpZy+4a6iS8mmKlCgTf1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://www.zeroum.bet/
+X-Requested-With: XMLHttpRequest
+X-Signalr-User-Agent: Microsoft SignalR/7.0 (7.0.14; Unknown OS; Browser; Unknown Runtime Version)
+Origin: https://www.zeroum.bet
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=4
+Cache-Control: max-age=0
+Content-Length: 0
+Te: trailers
+
