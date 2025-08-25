@@ -1,0 +1,15 @@
+GET /gs2c/playGame.do?key=token%3Dc2e1ac4f99374b2f81ad30dc11e5fccb%60%7C%60symbol%3Dvs10fortnhs%60%7C%60technology%3DH5%60%7C%60platform%3DWEB%60%7C%60language%3Dpt%60%7C%60currency%3DBRL%60%7C%60lobbyUrl%3Dhttps%3A%2F%2Fzeroum.bet%2Fcasino&ppkv=2&stylename=ips_inplaysoft&isGameUrlApiCalled=true HTTP/1.1
+Host: 8aqen4wl5q.hcqogitgar.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://www.zeroum.bet/
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: iframe
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: cross-site
+Priority: u=4
+Te: trailers
+Connection: close
+
