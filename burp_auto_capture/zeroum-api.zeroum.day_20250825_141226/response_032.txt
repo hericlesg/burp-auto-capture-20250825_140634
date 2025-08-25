@@ -1,0 +1,21 @@
+HTTP/2 200 OK
+Date: Mon, 25 Aug 2025 15:23:36 GMT
+Content-Type: application/json; charset=utf-8
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+Vary: Origin
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=cnHrvnjxn2wwv556Yx%2BitHRMss1uAoc5mqPVeS0yHGGN1cbsOKqKs1Yfda7532a22wkI06EKyvjUwz3QCnk%2FToQp3LcXitTxz3%2FBvohXjpdssT3A"}]}
+Set-Cookie: AWSALB=X5GIFBIHcmcNb1BKblKN8tUqE2acg5xdGxk1HNo+R3tu4z+x5Ay4Nke/Nw4KWLexL4QNnB3BHcfmX1joci9tgoPdv+6h6Gh7Gw8gJN1vbIbNzj6u865xBTgXFxsZ; Path=/; Expires=Mon, 01 Sep 2025 15:23:36 GMT
+Set-Cookie: AWSALBCORS=X5GIFBIHcmcNb1BKblKN8tUqE2acg5xdGxk1HNo+R3tu4z+x5Ay4Nke/Nw4KWLexL4QNnB3BHcfmX1joci9tgoPdv+6h6Gh7Gw8gJN1vbIbNzj6u865xBTgXFxsZ; SameSite=None; Secure; Path=/; Expires=Mon, 01 Sep 2025 15:23:36 GMT
+Cf-Ray: 974c1770396511f4-CDG
+
+{"image":"/assets/images/products/pragmaticplay/touro-sortudo-thumb.webp","name":"Touro Sortudo","slug":"tourosortudo","providerId":54,"gameId":2004188,"providerName":"PragmaticPlay","providerSlug":"pragmaticplay","raiting":0.00,"hasDemo":true,"jackpot":false,"rtp":97.55,"tags":[{"id":1396,"name":"+ Jogados da Semana","slug":"mais-jogados-da-semana","image":"/assets/images/trendy.webp","priority":1},{"id":1394,"name":"Todos","slug":"all","image":"/assets/images/casino-icons/all.webp","priority":8}],"supportDirectLobbyPage":false}
