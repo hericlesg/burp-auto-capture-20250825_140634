@@ -1,0 +1,13 @@
+HTTP/2 202 Accepted
+Content-Type: text/plain; charset=utf-8
+Content-Length: 2
+Date: Mon, 25 Aug 2025 15:24:31 GMT
+Vary: Origin
+Server: nginx/1.27.0
+Access-Control-Allow-Origin: *
+X-Cache: Miss from cloudfront
+Via: 1.1 3e1d16a0d00396c931fa139a61520d38.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: GRU3-P7
+X-Amz-Cf-Id: s7kpFNosflRpnw3vGbSWdj2yeI41k9qeuT2fX0o2jdXcSzauIgXSxQ==
+
+ok
