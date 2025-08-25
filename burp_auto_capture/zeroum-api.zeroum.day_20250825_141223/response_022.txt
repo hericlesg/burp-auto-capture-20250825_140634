@@ -1,0 +1,21 @@
+HTTP/2 200 OK
+Date: Mon, 25 Aug 2025 15:19:57 GMT
+Content-Type: application/json; charset=utf-8
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+Vary: Origin
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=a36ItsNIvPdKoDh9RjzcPNOIS4ed9S0VucGif%2BbJI1oS8VPCfUzv6zO7fm447rmrodFNySk%2FM8v%2BpPzdDA0U6D%2BOhPmQnOiq7SoDsEdppaqQSPA7"}]}
+Set-Cookie: AWSALB=CzWJ1Ioi/koG+x/5BGIpv0tFDIVqFn2GW3JX17T72+MUvrKN1nFBaPFAk1XZZFQSL+4tXpTB6/4wM+tWcTmiw2TI8/RtNAnyBOBlvzfde04o0pyjFrtZjmvFW4jr; Path=/; Expires=Mon, 01 Sep 2025 15:19:57 GMT
+Set-Cookie: AWSALBCORS=CzWJ1Ioi/koG+x/5BGIpv0tFDIVqFn2GW3JX17T72+MUvrKN1nFBaPFAk1XZZFQSL+4tXpTB6/4wM+tWcTmiw2TI8/RtNAnyBOBlvzfde04o0pyjFrtZjmvFW4jr; SameSite=None; Secure; Path=/; Expires=Mon, 01 Sep 2025 15:19:57 GMT
+Cf-Ray: 974c1219be3a556d-CDG
+
+[{"id":5147,"name":"GoiÃ¡s","isoCode":"BR","isoCode3":"GO"},{"id":5148,"name":"Mato Grosso","isoCode":"BR","isoCode3":"MT"},{"id":5181,"name":"Alagoas","isoCode":"BR","isoCode3":"AL"},{"id":5114,"name":"Acre","isoCode":"BR","isoCode3":"AC"},{"id":5182,"name":"AmapÃ¡","isoCode":"BR","isoCode3":"AP"},{"id":5180,"name":"Amazonas","isoCode":"BR","isoCode3":"AM"},{"id":5183,"name":"Bahia","isoCode":"BR","isoCode3":"BA"},{"id":5184,"name":"Tocantins","isoCode":"BR","isoCode3":"TO"},{"id":5185,"name":"Sergipe","isoCode":"BR","isoCode3":"SE"},{"id":5186,"name":"SÃ£o Paulo","isoCode":"BR","isoCode3":"SP"},{"id":5187,"name":"Santa Catarina","isoCode":"BR","isoCode3":"SC"},{"id":5188,"name":"CearÃ¡","isoCode":"BR","isoCode3":"CE"},{"id":5189,"name":"Roraima","isoCode":"BR","isoCode3":"RR"},{"id":5190,"name":"RondÃ´nia","isoCode":"BR","isoCode3":"RO"},{"id":5191,"name":"Rio Grande do Sul","isoCode":"BR","isoCode3":"RS"},{"id":5192,"name":"Rio Grande do Norte","isoCode":"BR","isoCode3":"RN"},{"id":5194,"name":"PiauÃ­","isoCode":"BR","isoCode3":"PI"},{"id":5195,"name":"Pernambuco","isoCode":"BR","isoCode3":"PE"},{"id":5196,"name":"ParanÃ¡","isoCode":"BR","isoCode3":"PR"},{"id":5197,"name":"ParaÃ­ba","isoCode":"BR","isoCode3":"PB"},{"id":5198,"name":"Distrito Federal","isoCode":"BR","isoCode3":"DF"},{"id":5199,"name":"ParÃ¡","isoCode":"BR","isoCode3":"PA"},{"id":5200,"name":"Minas Gerais","isoCode":"BR","isoCode3":"MG"},{"id":5193,"name":"Rio de Janeiro","isoCode":"BR-RJ","isoCode3":"RJ"},{"id":5201,"name":"Mato Grosso do Sul","isoCode":"BR","isoCode3":"MS"},{"id":5202,"name":"MaranhÃ£o","isoCode":"BR","isoCode3":"MA"},{"id":5203,"name":"EspÃ­rito Santo","isoCode":"BR","isoCode3":"ES"}]
