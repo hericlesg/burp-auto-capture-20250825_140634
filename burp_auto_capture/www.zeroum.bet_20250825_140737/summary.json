@@ -1,0 +1,47 @@
+{
+  "capture_timestamp": "20250825_140737", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.zeroum.bet_20250825_140737/request_001.txt", 
+      "url": "https://www.zeroum.bet:443/", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/www.zeroum.bet_20250825_140737/response_001.txt", 
+      "timestamp": 1756135029247
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.zeroum.bet_20250825_140737/request_002.txt", 
+      "url": "https://www.zeroum.bet:443/", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/www.zeroum.bet_20250825_140737/response_002.txt", 
+      "timestamp": 1756135046763
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.zeroum.bet_20250825_140737/request_003.txt", 
+      "url": "https://www.zeroum.bet:443/", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/www.zeroum.bet_20250825_140737/response_003.txt", 
+      "timestamp": 1756135096242
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.zeroum.bet_20250825_140737/request_004.txt", 
+      "url": "https://www.zeroum.bet:443/", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/www.zeroum.bet_20250825_140737/response_004.txt", 
+      "timestamp": 1756135139518
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.zeroum.bet_20250825_140737/request_005.txt", 
+      "url": "https://www.zeroum.bet:443/user/cashier/deposit", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/www.zeroum.bet_20250825_140737/response_005.txt", 
+      "timestamp": 1756135281594
+    }
+  ], 
+  "host": "www.zeroum.bet", 
+  "total_requests": 5
+}
