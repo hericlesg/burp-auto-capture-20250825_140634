@@ -1,0 +1,19 @@
+POST /api/registration/update-step HTTP/2
+Host: zeroum-api.zeroum.day
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: application/json, text/plain, */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://www.zeroum.bet/
+X-Language-Id: pt
+X-Timezone: -3
+Content-Type: application/json
+Content-Length: 272
+Origin: https://www.zeroum.bet
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=0
+Te: trailers
+
+{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvcmlnaW5hbF90b2tlbiI6ImFmY2NmYTkyLWQ3NzYtNDMzNS05YmVhLWU5YzY4MzUwY2QxMiIsImV4cCI6MTc1NjEzNTQ5NX0.5-fNgsYZVVFG-2HLzK44TSQMBFc5w7XoH5tO7S5UNFw","flowStepId":237,"cpfNumber":"51037505115","termsConditions":true,"TimeZone":-3}
