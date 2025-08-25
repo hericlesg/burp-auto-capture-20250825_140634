@@ -1,0 +1,26 @@
+HTTP/2 200 OK
+Date: Mon, 25 Aug 2025 15:19:59 GMT
+Content-Type: text/event-stream
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Cache-Control: no-cache,no-store
+Content-Encoding: identity
+Pragma: no-cache
+Vary: Origin
+Vary: accept-encoding
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=K6t5iMygW%2B7rR9fecLnnbOoS78cXHOBWjWYdiBmuxOcCDudnsTjivKlm9A%2BpxwmboapImlyCi8iIPl5QpWQD2SsFrxcJL6vdEumAT9UYAluqSlhP"}]}
+Set-Cookie: AWSALB=s1/ZFw5wbhbIIvQOIks/75W/o37EutoYxArRML6BacOP0N/wF1P6WSdh5ANBbQmKOA7maP4jZF96SCRWXjsFvOaXELFdIdTq1DHqnpQvMzkBI2Abc2n1ErwUdzIu; Path=/; Expires=Mon, 01 Sep 2025 15:19:59 GMT
+Set-Cookie: AWSALBCORS=s1/ZFw5wbhbIIvQOIks/75W/o37EutoYxArRML6BacOP0N/wF1P6WSdh5ANBbQmKOA7maP4jZF96SCRWXjsFvOaXELFdIdTq1DHqnpQvMzkBI2Abc2n1ErwUdzIu; SameSite=None; Secure; Path=/; Expires=Mon, 01 Sep 2025 15:19:59 GMT
+Cf-Ray: 974c1221cf12556d-CDG
+
+:
+data: {"error":"Handshake was canceled."}
+
