@@ -1,0 +1,15 @@
+GET /config?api_key=154ad5ccf8a82732a59152a92644de7&config_keys=sessionReplay&session_id=1756141518256 HTTP/2
+Host: sr-client-cfg.amplitude.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://app.sejaefi.com.br/
+Origin: https://app.sejaefi.com.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Cache-Control: max-age=0
+Te: trailers
+
