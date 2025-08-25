@@ -1,0 +1,18 @@
+GET /basehub?languageId=pt&id=qYB_5BBhyLJopiJPS2YxFg HTTP/1.1
+Host: zeroum-api.zeroum.day
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: https://www.zeroum.bet
+Sec-WebSocket-Key: lnerfO3YqfBU9xA2eHzrXQ==
+Connection: keep-alive, Upgrade
+Cookie: AWSALB=pbbd0l3NZJuH06StNl7uHL17zKHFlqrvwlhr+qSP5W+bTwapmgy+vhijOLIWIBIChi9bp0LQKEI1uBHxi4uVH3Ba2TOWkv9dnV40cBqTGfHcnt/0nZG2RQEKJZ4r; AWSALBCORS=pbbd0l3NZJuH06StNl7uHL17zKHFlqrvwlhr+qSP5W+bTwapmgy+vhijOLIWIBIChi9bp0LQKEI1uBHxi4uVH3Ba2TOWkv9dnV40cBqTGfHcnt/0nZG2RQEKJZ4r
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: websocket
+Sec-Fetch-Site: cross-site
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
