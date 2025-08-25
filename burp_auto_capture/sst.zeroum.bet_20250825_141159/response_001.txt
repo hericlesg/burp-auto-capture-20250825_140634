@@ -1,0 +1,8 @@
+HTTP/2 200 OK
+Date: Mon, 25 Aug 2025 15:17:09 GMT
+Set-Cookie: FPID=FPID2.2.3Nb4whZGfqUwS1P4EclMJdHKbMDBxVx2rlmHU55kLtA%3D.1755192962; Max-Age=63072000; Domain=zeroum.bet; Path=/; Secure; HttpOnly
+Set-Cookie: FPAU=1.1.541171167.1755192961; Max-Age=6833932; Domain=zeroum.bet; Path=/; Secure
+Trace-Id: 8ef1f98b-ca37-4bf9-893e-b7120041aedb
+X-Robots-Tag: noindex, nofollow
+Content-Length: 0
+
