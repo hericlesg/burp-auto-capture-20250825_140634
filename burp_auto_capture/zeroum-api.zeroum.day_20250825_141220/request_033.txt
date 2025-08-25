@@ -1,0 +1,15 @@
+GET /api/games/favouritegamesIds?clientId=6408008&token=G0F%252bco5xU71XzEShWJKEwoNeQqYcs3GIfLoABx%252blq0X7MNPa6zTD8Kf2ixbCERVr4M73nfFf3zF9ItTE6nMMew%253d%253d&languageId=pt&LanguageId=pt&TimeZone=-3 HTTP/2
+Host: zeroum-api.zeroum.day
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: application/json, text/plain, */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://www.zeroum.bet/
+X-Language-Id: pt
+X-Timezone: -3
+Origin: https://www.zeroum.bet
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Te: trailers
+
