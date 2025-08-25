@@ -1,0 +1,18 @@
+POST /collect HTTP/1.1
+Host: b.clarity.ms
+Cookie: MUID=08E9BC3E447E66CB00ADAA7845346719
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://www.zeroum.bet/
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 1580
+Origin: https://www.zeroum.bet
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Te: trailers
+Connection: close
+
+{"e":["0.8.26",4,4324,3029,"rjz72wzpkd","16g1myi","o2xhee",2,0,0,0,"https://www.zeroum.bet/"],"a":[[4342,8,1126,4089],[4349,8,1127,4089],[5167,11,1127,954],[4644,12,3,1142,27],[4660,12,3,1136,27],[4675,12,3,1134,27],[4691,12,88,1119,25],[4706,12,122,1112,24],[4722,12,122,1109,24],[4738,12,122,1105,24],[4752,12,122,1102,24],[4769,12,122,1100,24],[4785,12,122,1098,24],[4816,12,122,1096,23],[4831,12,122,1093,23],[4847,12,122,1089,22],[4863,12,122,1086,22],[4877,12,122,1083,21],[4894,12,122,1079,20],[4910,12,122,1077,20],[6019,13,122,1077,20],[6097,14,122,1077,20],[6097,9,122,1077,20,17981,11263,0,0,0,"Cadastro",null,"3s4fuhp5.2w1yjjr7f",1,1],[2566,22,9,"3s4fuhp5.2w1yjjr7f",920,32,0,0],[4323,4,1,1113,4081,978,954,0,0,994,31,4298,0,3456,994,31,3456,920,32,2502,920,32,2566,992,31,3128],[7352,0,2,1594,3,15,4,13,5,26,25,30],[7352,36,6,[4331,40,5337,0,6343,0]]],"p":[[5337,6,252,201,"SWIPER-SLIDE","class=ips-banner-slide","style=margin-right: 10px;","role=group",253,201,252,[4],"class=ips-banner-slide swiper-slide-prev",[6,7],254,201,253,[4],"class=ips-banner-slide swiper-slide-active",[6,7],255,201,254,[4],"class=ips-banner-slide swiper-slide-next",[6,7]],[5337,6,524,351,523,"DIV","class=swiper-wrapper","part=wrapper","id=swiper-wrapper-eb47f950f6141ede","aria-live=off","style=transform: translate3d(-660px, 0px, 0px); transition-duration: 1000ms;"],[6343,6,524,351,523,"DIV","class=swiper-wrapper","part=wrapper","id=swiper-wrapper-eb47f950f6141ede","aria-live=off","style=transform: translate3d(-660px, 0px, 0px); transition-duration: 0ms; transition-delay: 0ms;"]]}
