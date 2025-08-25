@@ -1,0 +1,24 @@
+HTTP/2 200 OK
+Cache-Control: no-cache
+Content-Type: text/plain
+Date: Mon, 25 Aug 2025 15:21:10 GMT
+Set-Cookie: FPID=FPID2.2.3Nb4whZGfqUwS1P4EclMJdHKbMDBxVx2rlmHU55kLtA%3D.1755192962; Max-Age=63072000; Domain=zeroum.bet; Path=/; Secure; HttpOnly
+Set-Cookie: FPAU=1.1.541171167.1755192961; Max-Age=6833690; Domain=zeroum.bet; Path=/; Secure
+Set-Cookie: FPGSID=1.1756134994.1756135271.G-R38GP7L2V4.zjUyGpEHkykTJQO9QetGbw; Max-Age=1523; Domain=zeroum.bet; Path=/; SameSite=strict; Secure
+Trace-Id: b8b5f68b-6b3c-46ee-8ca1-9cff101c853e
+X-Accel-Buffering: no
+X-Content-Type-Options: nosniff
+X-Robots-Tag: noindex, nofollow
+
+event: message
+data: {"send_pixel":["https://analytics.google.com/g/s/collect?dma=0&npa=0&gcd=13l3l3l3l1l1&gtm=45P91e58l0h2v9187957930z99226831139za200zb9187974028zd9187974028&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105399921~105399923&_is_sw=0&_tu=BA&_gsid=R38GP7L2V4zjUyGpEHkykTJQO9QetGbw"],"options":{}}
+
+event: message
+data: {"send_pixel":["https://www.google.com.br/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&dma=0&npa=0&gcd=13l3l3l3l1l1&tid=G-R38GP7L2V4&cid=3Nb4whZGfqUwS1P4EclMJdHKbMDBxVx2rlmHU55kLtA%3D.1755192962&gtm=45P91e58l0h2v9187957930z99226831139za200zb9187974028zd9187974028&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105399921~105399923&_is_sw=0&_tu=BA&aip=1&z=2058096077"],"options":{}}
+
+event: message
+data: {"send_pixel":["https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17392367413/?random=1057922878&fst=1756135271051&cv=10&fmt=3&bg=ffffff&guid=ON&u_w=2560&u_h=1080&gtm=45P91e58l0h2v9187957930z99226831139za200zb9187974028zd9187974028&url=https%3A%2F%2Fwww.zeroum.bet%2F(middle-drawer%3Asign-up-success)%3FopenSuccess&ref=https%3A%2F%2Fwww.zeroum.bet%2F&data=event%3Dpage_view&auid=541171167.1755192961&dma=0&npa=0&gcd=13l3l3l3l1l1&pscdl=noapi&_is_sw=0&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105399921~105399923&_tu=BA"],"options":{}}
+
+event: message
+data: {"response":{"status_code":200,"body":""}}
+
