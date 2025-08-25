@@ -1,0 +1,21 @@
+HTTP/2 200 OK
+Date: Mon, 25 Aug 2025 15:21:10 GMT
+Content-Type: application/json; charset=utf-8
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+Vary: Origin
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=T91mqjuOd80eroy%2ByYsR06O%2FnWQbtAi%2BsRazvMu80mD3%2FwAGU1JIpp3ZPwFQBNgrLQuxq8bwO2%2BTXDRtADbAY%2FK6EhEGgW6cwjxNCCyp%2FKHM6XLw"}]}
+Set-Cookie: AWSALB=nsYWiIi4O5Z62QjLlQzO966isNGhBIRF90o5+tmTqdGBpjv70U2D8hs4fIrTZX4+XlJK6l4cW7SBhjFHRoC7u5ng96gEeBPKQOoJgZeAPubhY8M8BzdGt3HnA2vV; Path=/; Expires=Mon, 01 Sep 2025 15:21:10 GMT
+Set-Cookie: AWSALBCORS=nsYWiIi4O5Z62QjLlQzO966isNGhBIRF90o5+tmTqdGBpjv70U2D8hs4fIrTZX4+XlJK6l4cW7SBhjFHRoC7u5ng96gEeBPKQOoJgZeAPubhY8M8BzdGt3HnA2vV; SameSite=None; Secure; Path=/; Expires=Mon, 01 Sep 2025 15:21:10 GMT
+Cf-Ray: 974c13df4fc36562-AMS
+
+{"s":"/(middle-drawer:sign-up-success)"}
