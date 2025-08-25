@@ -1,0 +1,19 @@
+POST /collect HTTP/1.1
+Host: b.clarity.ms
+Cookie: MUID=08E9BC3E447E66CB00ADAA7845346719
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://login.sejaefi.com.br/
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 328
+Origin: https://login.sejaefi.com.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+Connection: close
+
+{"e":["0.8.26",9,36629,2359,"g0r6pkqi91","103nrd5","6kt9pq",7,1,1,0,"https://login.sejaefi.com.br/oauth/authorize?redirect_to=https://app.sejaefi.com.br/"],"a":[[38986,2,5,2,0],[36629,4,1,1144,954,1144,954,0,0,873,801,23981,0,31612,873,801,31612,216,506,23611,216,506,23690,883,831,31596],[38988,0,2,747,4,0,25,3],[38988,35,3]]}
