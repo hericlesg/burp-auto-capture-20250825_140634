@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250825_141147", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/stats-collector.zdoiodhtqahjizqq.net_20250825_141147/request_001.txt", 
+      "url": "https://stats-collector.zdoiodhtqahjizqq.net:443/log/data", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/stats-collector.zdoiodhtqahjizqq.net_20250825_141147/response_001.txt", 
+      "timestamp": 1756135463114
+    }
+  ], 
+  "host": "stats-collector.zdoiodhtqahjizqq.net", 
+  "total_requests": 1
+}
