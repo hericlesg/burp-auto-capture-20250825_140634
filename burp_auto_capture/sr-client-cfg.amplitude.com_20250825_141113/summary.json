@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250825_141113", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sr-client-cfg.amplitude.com_20250825_141113/request_001.txt", 
+      "url": "https://sr-client-cfg.amplitude.com:443/config?api_key=154ad5ccf8a82732a59152a92644de7&config_keys=sessionReplay&session_id=1756141518256", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/sr-client-cfg.amplitude.com_20250825_141113/response_001.txt", 
+      "timestamp": 1756141641154
+    }
+  ], 
+  "host": "sr-client-cfg.amplitude.com", 
+  "total_requests": 1
+}
