@@ -1,0 +1,12 @@
+HTTP/2 204 No Content
+Date: Mon, 25 Aug 2025 17:07:20 GMT
+Content-Type: text/plain
+Access-Control-Allow-Origin: https://login.sejaefi.com.br
+Access-Control-Allow-Methods: POST,OPTIONS
+Access-Control-Max-Age: 86400
+Vary: Origin, accept-encoding
+Access-Control-Allow-Credentials: true
+Server: cloudflare
+Cf-Ray: 974caf67dd69d854-DEL
+Alt-Svc: h3=":443"; ma=86400
+
