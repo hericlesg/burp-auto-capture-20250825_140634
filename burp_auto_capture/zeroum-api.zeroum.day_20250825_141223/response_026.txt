@@ -1,0 +1,21 @@
+HTTP/2 200 OK
+Date: Mon, 25 Aug 2025 15:21:07 GMT
+Content-Type: application/json; charset=utf-8
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+Vary: Origin
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=63%2FF3H27B0q541Dk2WxU4BzwnHxZgwkkvJ%2B0U1ldsTvReGaUQddf%2F%2FOgSaFBklJ%2BOy2LZHHXRPSHmKIvoSueCdeW2bzhTdJQwE23A69IvBpH4Ocr"}]}
+Set-Cookie: AWSALB=RixPPz1NcVd7G7sTYH5hvhwtFnMR7vuB1MAygMQjYC4/v4lP+8f6NA1otMlXU0hhLtRauvSdEeFONGNR9ko4VqCz/WmS7PqEPrWc747WvAiixn4rsTqbFyeW+/6i; Path=/; Expires=Mon, 01 Sep 2025 15:21:06 GMT
+Set-Cookie: AWSALBCORS=RixPPz1NcVd7G7sTYH5hvhwtFnMR7vuB1MAygMQjYC4/v4lP+8f6NA1otMlXU0hhLtRauvSdEeFONGNR9ko4VqCz/WmS7PqEPrWc747WvAiixn4rsTqbFyeW+/6i; SameSite=None; Secure; Path=/; Expires=Mon, 01 Sep 2025 15:21:06 GMT
+Cf-Ray: 974c13c6af486562-AMS
+
+{"firstName":"Cleonir","sessionToken":"iaUkWWFXOjZzGhd7Bb3XvA881P9No%2bgz%2fO6B4sPYuld0CodYltXk6WDmAQk3A4Xf8uItCxD2neqq18HCBY%2b6uQ%3d%3d","user":{"id":6433277,"email":"cleonir400@gmail.com","isEmailVerified":false,"currencyId":"BRL","userName":"U6433277","partnerId":180,"regionId":5147,"cityId":0,"countryId":716,"gender":0,"genderName":"-","birthDate":"1970-11-30T00:00:00","firstName":"Cleonir","lastName":"Ferreira De Jesus","nickName":"","documentNumber":"","phoneNumber":"+5511923541582","documentIssuedBy":"","address":" 49 AV MINAS GERAIS ","mobileNumber":"+5511923541582","isMobileNumberVerified":false,"languageId":"pt","registrationIp":"177.149.137.35","creationTime":"2025-08-25T15:21:06.4085233Z","lastUpdateTime":"0001-01-01T00:00:00","token":"68e6df124d7d4994945af3a6a1cb5cd6","emailOrMobile":null,"sendMail":true,"sendSms":true,"callToPhone":false,"sendPromotions":true,"isDocumentVerified":false,"kYCDocsStatus":0,"kYCStatus":0,"zipCode":"75960000","info":null,"categoryId":1,"categoryName":null,"welcomeBonusActivationKey":null,"citizenship":null,"citizenshipName":"","jobArea":null,"currencySymbol":"R$ ","lastLogin":null,"lastLogout":null,"lastLoginIp":null,"resetPassword":false,"resetNickName":null,"acceptTermsConditions":false,"documentExpirationStatus":null,"ad":null,"adm":null,"timeZone":0.0,"taxNumber":"51037505115","street":null,"streetNumber":null,"complement":null,"referralCode":"jranCm4qx5dcBAurb75G","isReferralBlocked":false,"successfulDepositCount":0,"loginType":0,"isWithdrawalsBlocked":false,"deposits":null,"offerId":null,"offerTranslation":null,"offerDescriptionTranslation":null,"isUserUnsubscribe":false,"postRegistrationCompleted":false,"activityStatus":0,"requiredVerifications":[],"cityName":"ACREUNA","isTest":false,"district":null,"pendingLegalDocuments":[],"referFriendActive":false}}
