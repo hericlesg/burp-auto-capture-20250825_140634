@@ -1,0 +1,55 @@
+{
+  "capture_timestamp": "20250825_140636", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/mpc-prod-4-1053047382554.us-central1.run.app_20250825_140636/request_001.txt", 
+      "url": "https://mpc-prod-4-1053047382554.us-central1.run.app:443/events/f19e7e128ed4776a9a1827ca9060dedf0d3bce2c075a3b8645d6c92dbb81266d", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/mpc-prod-4-1053047382554.us-central1.run.app_20250825_140636/response_001.txt", 
+      "timestamp": 1756135031544
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/mpc-prod-4-1053047382554.us-central1.run.app_20250825_140636/request_002.txt", 
+      "url": "https://mpc-prod-4-1053047382554.us-central1.run.app:443/events/f19e7e128ed4776a9a1827ca9060dedf0d3bce2c075a3b8645d6c92dbb81266d", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/mpc-prod-4-1053047382554.us-central1.run.app_20250825_140636/response_002.txt", 
+      "timestamp": 1756135192855
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/mpc-prod-4-1053047382554.us-central1.run.app_20250825_140636/request_003.txt", 
+      "url": "https://mpc-prod-4-1053047382554.us-central1.run.app:443/events/f19e7e128ed4776a9a1827ca9060dedf0d3bce2c075a3b8645d6c92dbb81266d", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/mpc-prod-4-1053047382554.us-central1.run.app_20250825_140636/response_003.txt", 
+      "timestamp": 1756135269644
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/mpc-prod-4-1053047382554.us-central1.run.app_20250825_140636/request_004.txt", 
+      "url": "https://mpc-prod-4-1053047382554.us-central1.run.app:443/events/f19e7e128ed4776a9a1827ca9060dedf0d3bce2c075a3b8645d6c92dbb81266d", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/mpc-prod-4-1053047382554.us-central1.run.app_20250825_140636/response_004.txt", 
+      "timestamp": 1756135270130
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/mpc-prod-4-1053047382554.us-central1.run.app_20250825_140636/request_005.txt", 
+      "url": "https://mpc-prod-4-1053047382554.us-central1.run.app:443/events/f19e7e128ed4776a9a1827ca9060dedf0d3bce2c075a3b8645d6c92dbb81266d", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/mpc-prod-4-1053047382554.us-central1.run.app_20250825_140636/response_005.txt", 
+      "timestamp": 1756135281445
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/mpc-prod-4-1053047382554.us-central1.run.app_20250825_140636/request_006.txt", 
+      "url": "https://mpc-prod-4-1053047382554.us-central1.run.app:443/events/f19e7e128ed4776a9a1827ca9060dedf0d3bce2c075a3b8645d6c92dbb81266d", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/mpc-prod-4-1053047382554.us-central1.run.app_20250825_140636/response_006.txt", 
+      "timestamp": 1756135415771
+    }
+  ], 
+  "host": "mpc-prod-4-1053047382554.us-central1.run.app", 
+  "total_requests": 6
+}
