@@ -1,0 +1,18 @@
+HTTP/2 200 OK
+Content-Type: binary/octet-stream
+Content-Length: 0
+Date: Tue, 19 Aug 2025 00:03:08 GMT
+Last-Modified: Thu, 14 Mar 2024 18:53:51 GMT
+Etag: "d41d8cd98f00b204e9800998ecf8427e"
+X-Amz-Server-Side-Encryption: AES256
+X-Amz-Meta-Mtime: 1710343225
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Cache: Hit from cloudfront
+Via: 1.1 a48e67f634f30c414a6f72e65701a908.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: GRU3-P10
+X-Amz-Cf-Id: is5Cno_Jj6SoBgaoeFQSDN4fzdBeGRUllYWqe2aeDHZbl9UTIwRV3Q==
+Age: 573672
+Cache-Control: max-age=604800, public, must-revalidate, proxy-revalidate
+Vary: Origin
+
