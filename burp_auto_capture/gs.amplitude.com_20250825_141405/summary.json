@@ -1,0 +1,39 @@
+{
+  "capture_timestamp": "20250825_141405", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/gs.amplitude.com_20250825_141405/request_001.txt", 
+      "url": "https://gs.amplitude.com:443/sdk/v1/resource_center", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/gs.amplitude.com_20250825_141405/response_001.txt", 
+      "timestamp": 1756141644228
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/gs.amplitude.com_20250825_141405/request_002.txt", 
+      "url": "https://gs.amplitude.com:443/sdk/v1/config", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/gs.amplitude.com_20250825_141405/response_002.txt", 
+      "timestamp": 1756141644228
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/gs.amplitude.com_20250825_141405/request_003.txt", 
+      "url": "https://gs.amplitude.com:443/sdk/v1/decide", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/gs.amplitude.com_20250825_141405/response_003.txt", 
+      "timestamp": 1756141649409
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/gs.amplitude.com_20250825_141405/request_004.txt", 
+      "url": "https://gs.amplitude.com:443/sdk/v1/state", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/gs.amplitude.com_20250825_141405/response_004.txt", 
+      "timestamp": 1756141655136
+    }
+  ], 
+  "host": "gs.amplitude.com", 
+  "total_requests": 4
+}
