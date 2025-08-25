@@ -1,0 +1,21 @@
+HTTP/2 200 OK
+Date: Mon, 25 Aug 2025 15:17:10 GMT
+Content-Type: application/json; charset=utf-8
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+Vary: Origin
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=bwsgQeeSYiB%2BWFr5z87j0NAaBpOgRF6dx3WVxs7NGKrdzYrlUFYECOthKlPaXNYcrmmLxySLG83Cmt5CutlV7boA1NJJZ9P5ERrfldEYVzdNOQ3l"}]}
+Set-Cookie: AWSALB=lA9Pgo6w+RvNo0BoOvRxYArjn3f4c1fUKzWptSMGcozqJtvRQRsj4wh/NB1fiftSYQPI575FhZeVft9aeYaQ93Pi9t/IilKC3T4kI1r+qjL9ItwAgjbjU6qfDCbD; Path=/; Expires=Mon, 01 Sep 2025 15:17:10 GMT
+Set-Cookie: AWSALBCORS=lA9Pgo6w+RvNo0BoOvRxYArjn3f4c1fUKzWptSMGcozqJtvRQRsj4wh/NB1fiftSYQPI575FhZeVft9aeYaQ93Pi9t/IilKC3T4kI1r+qjL9ItwAgjbjU6qfDCbD; SameSite=None; Secure; Path=/; Expires=Mon, 01 Sep 2025 15:17:10 GMT
+Cf-Ray: 974c0e02db4ee187-MRS
+
+[{"ps":34,"pn":"Fortune Rabbit","s":"fortunerabbit","prs":"pgsoft","prn":"PGSoft","bt":"2025-08-25T15:16:57.382Z","p":"Luana","ba":1.0000,"wa":23.0000,"i":"/assets/images/products/fortune_rabbit.webp","m":23.0},{"ps":2002742,"pn":"Tigre Sortudo","s":"tigre-sortudo","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2025-08-25T15:16:56.43Z","p":"RENATO","ba":3.0000,"wa":225.0000,"i":"/assets/images/products/pragmaticplay/tigre-sortudo-thumb.webp","m":75.0},{"ps":35,"pn":"Fortune Tiger","s":"fortunetiger","prs":"pgsoft","prn":"PGSoft","bt":"2025-08-25T15:16:56.824Z","p":"LUCAS","ba":0.4000,"wa":8.0000,"i":"/assets/images/products/fortune_tiger.webp","m":20.0},{"ps":2004164,"pn":"Ratinho Sortudo","s":"ratinho-sortudo","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2025-08-25T15:16:56.424Z","p":"Daiane","ba":0.5000,"wa":5.0000,"i":"/assets/images/products/pragmaticplay/ratinho-sortudo-thumb.webp","m":10.0},{"ps":2005653,"pn":"Yo Dragon","s":"yodragon","prs":"popok","prn":"PopOk","bt":"2025-08-25T15:16:37.054Z","p":"ANA","ba":0.1000,"wa":1.7000,"i":"/assets/images/products/GB_YO-Dragon_420x560_1606.webp","m":17.0},{"ps":33,"pn":"Fortune Ox","s":"fortuneox","prs":"pgsoft","prn":"PGSoft","bt":"2025-08-25T15:16:56.677Z","p":"Ivonete","ba":0.5000,"wa":5.0000,"i":"/assets/images/products/fortune_ox.webp","m":10.0},{"ps":33,"pn":"Fortune Ox","s":"fortuneox","prs":"pgsoft","prn":"PGSoft","bt":"2025-08-25T15:16:56.265Z","p":"THAYSE","ba":3.0000,"wa":30.0000,"i":"/assets/images/products/fortune_ox.webp","m":10.0},{"ps":33,"pn":"Fortune Ox","s":"fortuneox","prs":"pgsoft","prn":"PGSoft","bt":"2025-08-25T15:16:56.138Z","p":"Neuma","ba":0.5000,"wa":25.0000,"i":"/assets/images/products/fortune_ox.webp","m":50.0},{"ps":34,"pn":"Fortune Rabbit","s":"fortunerabbit","prs":"pgsoft","prn":"PGSoft","bt":"2025-08-25T15:16:55.779Z","p":"Antonia","ba":4.0000,"wa":46.0000,"i":"/assets/images/products/fortune_rabbit.webp","m":11.5},{"ps":2004163,"pn":"Fortune Snake","s":"fortunesnake","prs":"pgsoft","prn":"PGSoft","bt":"2025-08-25T15:16:55.591Z","p":"Sara","ba":1.5000,"wa":30.4500,"i":"/assets/images/products/a26f08c0aa36c85a565b2c2882f353e695e5802470fa0d9276c35c322a8fc0c5.png","m":20.3}]
