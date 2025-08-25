@@ -1,0 +1,16 @@
+HTTP/2 304 Not Modified
+Date: Mon, 25 Aug 2025 17:07:24 GMT
+Cf-Ray: 974caf7f5a84e1d1-MRS
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'self' blob: 'self' data: gerencianet.com.br *.gerencianet.com.br wss://*.gerencianet.com.br https://connect.facebook.net https://gerencianet-pub-prod-1.s3.amazonaws.com https://chat.blip.ai https://unpkg.com/ https://s3-sa-east-1.amazonaws.com/pe85007 sejaefi.com.br *.sejaefi.com.br wss://*.sejaefi.com.br; script-src 'self' blob: 'self' data: gerencianet.com.br *.gerencianet.com.br wss://*.gerencianet.com.br https://connect.facebook.net https://gerencianet-pub-prod-1.s3.amazonaws.com https://chat.blip.ai https://unpkg.com/ https://s3-sa-east-1.amazonaws.com/pe85007 sejaefi.com.br *.sejaefi.com.br wss://*.sejaefi.com.br 'unsafe-inline' 'unsafe-eval' *.google-analytics.com *.googletagmanager.com google-code-prettify.googlecode.com/svn/loader/run_prettify.js *.google.com www.google.com; style-src 'self' blob: 'self' data: gerencianet.com.br *.gerencianet.com.br wss://*.gerencianet.com.br https://connect.facebook.net https://gerencianet-pub-prod-1.s3.amazonaws.com https://chat.blip.ai https://unpkg.com/ https://s3-sa-east-1.amazonaws.com/pe85007 sejaefi.com.br *.sejaefi.com.br wss://*.sejaefi.com.br 'unsafe-inline' *.googleapis.com *.googlecode.com; img-src 'self' blob: 'self' data: gerencianet.com.br *.gerencianet.com.br wss://*.gerencianet.com.br https://connect.facebook.net https://gerencianet-pub-prod-1.s3.amazonaws.com https://chat.blip.ai https://unpkg.com/ https://s3-sa-east-1.amazonaws.com/pe85007 sejaefi.com.br *.sejaefi.com.br wss://*.sejaefi.com.br *.google-analytics.com *.googletagmanager.com stats.g.doubleclick.net www.google.com *.google.com.br *.google.com *.adroll.com *.facebook.com *.amazonaws.com; connect-src 'self' blob: 'self' data: gerencianet.com.br *.gerencianet.com.br wss://*.gerencianet.com.br https://connect.facebook.net https://gerencianet-pub-prod-1.s3.amazonaws.com https://chat.blip.ai https://unpkg.com/ https://s3-sa-east-1.amazonaws.com/pe85007 sejaefi.com.br *.sejaefi.com.br wss://*.sejaefi.com.br *.amazonaws.com https://cartao-gerencianet.gerencianet.com.br; frame-src 'self' blob: 'self' data: gerencianet.com.br *.gerencianet.com.br wss://*.gerencianet.com.br https://connect.facebook.net https://gerencianet-pub-prod-1.s3.amazonaws.com https://chat.blip.ai https://unpkg.com/ https://s3-sa-east-1.amazonaws.com/pe85007 sejaefi.com.br *.sejaefi.com.br wss://*.sejaefi.com.br *.google.com *.gstatic.com *.googletagmanager.com *.loom.com *.youtube.com
+Cache-Control: no-cache, must-revalidate
+X-Gn-Ttl: 30
+Etag: W/"1122-KX9vyHO/5+D9hMLikBtGL2L3kTE"
+Set-Cookie: connect.sid=s%3Aapp%3ANTMyZmYyZDMtM2NjYS00OTU0LTg1NzUtODA0YWJiZmNlM2Rl.a2a5YivD2YfVbK0L3yrJ1X5sKqVeT0zsoTuXygrHjtM; Domain=sejaefi.com.br; Path=/; Expires=Mon, 25 Aug 2025 17:37:24 GMT; HttpOnly
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400
+
