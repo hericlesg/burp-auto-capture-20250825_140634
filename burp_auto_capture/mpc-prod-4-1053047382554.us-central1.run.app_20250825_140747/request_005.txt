@@ -1,0 +1,18 @@
+POST /events/f19e7e128ed4776a9a1827ca9060dedf0d3bce2c075a3b8645d6c92dbb81266d HTTP/2
+Host: mpc-prod-4-1053047382554.us-central1.run.app
+Cookie: cee=yeamEpYu2IENbZi0hK7uzBhZZhwjMOF%2F1h8eSScntW8%3D.%7B%22em%22%3A%22cc33f504aa2882234edef350ecb054464ba17eb1e7e7f13ad11aaae4c3ccc8c6%22%2C%22ph%22%3A%221ace9d7fe361de71e9df423d28d70b61d86d83e9b69fa56a7fb7dab601a08bd6%22%2C%22db%22%3A%223dde8c4fd9205645aef62ad4afd7a4bb1d1be33b83bb260118df8d53916a9955%22%2C%22ln%22%3A%2273d41a28b891957fb761a9090771c0c027200a536f729668b1e2dfc9144e1524%22%2C%22fn%22%3A%222bd2d3a31934d76198acc030caca4c31965474fe5fa48f35fef79d0fd74ee1b2%22%2C%22st%22%3A%228604818af4d21bbfc08a82a68f3ab4666d6893aaf88134504530282d9fae818d%22%2C%22ct%22%3A%22f1b5cb813c226fd2583edf275f51bfff0a70c162c9ee81bda595e0e5da213e4f%22%2C%22zp%22%3A%225d45d11fa0bfb1246f3d521350cfeeaff309ebe7d17394dbfc50b5bf018797a4%22%2C%22country%22%3A%22885036a0da3dff3c3e05bc79bf49382b12bc5098514ed57ce0875aba1aa2c40d%22%2C%22external_id%22%3A%226276710%22%7D
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: text/plain;charset=UTF-8
+Referer: https://www.zeroum.bet/
+Content-Length: 1173
+Origin: https://www.zeroum.bet
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=4
+Te: trailers
+
+{"event_name":"PageView","fb.dynamic_product_ads":{},"custom_data":{},"event_id":"ob3_plugin-set_e3531aa65458023dde0739b6b0341a71df39b7db1eadaf61b508db3fcaf98822","fb.pixel_id":"1207833731092772","fb.advanced_matching":{"em":"cc33f504aa2882234edef350ecb054464ba17eb1e7e7f13ad11aaae4c3ccc8c6","ph":"1ace9d7fe361de71e9df423d28d70b61d86d83e9b69fa56a7fb7dab601a08bd6","db":"3dde8c4fd9205645aef62ad4afd7a4bb1d1be33b83bb260118df8d53916a9955","ln":"73d41a28b891957fb761a9090771c0c027200a536f729668b1e2dfc9144e1524","fn":"2bd2d3a31934d76198acc030caca4c31965474fe5fa48f35fef79d0fd74ee1b2","st":"8604818af4d21bbfc08a82a68f3ab4666d6893aaf88134504530282d9fae818d","ct":"f1b5cb813c226fd2583edf275f51bfff0a70c162c9ee81bda595e0e5da213e4f","zp":"5d45d11fa0bfb1246f3d521350cfeeaff309ebe7d17394dbfc50b5bf018797a4","country":"885036a0da3dff3c3e05bc79bf49382b12bc5098514ed57ce0875aba1aa2c40d","external_id":"6276710"},"website_context":{"location":"https://www.zeroum.bet/?openSuccess=","referrer":"","isInIFrame":false},"fb.fbp":"fb.1.1755192960875.1052514722","event_meta_info":{"experiment_detail":{"name":"use_always_retry","is_exposed":true,"is_in_control":false,"is_in_treatment":true}}}
