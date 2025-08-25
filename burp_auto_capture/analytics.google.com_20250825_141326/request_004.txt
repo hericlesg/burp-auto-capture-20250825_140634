@@ -1,0 +1,18 @@
+POST /g/collect?v=2&tid=G-JDQG84BJK7&gtm=45je58l0v9119364028za200zb6665191zd6665191&_p=1756141583686&em=tv.1~em.rk2AWIdYME7cnjtLqnvjzowMhXJpMaUepJoRlbnW0eo&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~102015666~103116026~103200004~103233427~104527907~104528501~104684208~104684211~104948813~105399921~105399923&cid=1670215502.1752292318&ecid=1384143506&ul=pt-br&sr=2560x1080&frm=0&pscdl=noapi&ec_mode=a&_eu=AEEAAAQ&_s=4&sid=1756141517&sct=7&seg=1&dl=https%3A%2F%2Flogin.sejaefi.com.br%2Foauth%2Fauthorize%3Fredirect_to%3Dhttps%3A%2F%2Fapp.sejaefi.com.br%2F&dr=https%3A%2F%2Fapp.sejaefi.com.br%2F&dt=Ef%C3%AD%20-%20Login&en=form_submit&ep.form_id=loginForm&ep.form_name=&ep.form_destination=https%3A%2F%2Flogin.sejaefi.com.br%2Foauth%2Fauthorize%3Fredirect_to%3Dhttps%3A%2F%2Fapp.sejaefi.com.br%2F&epn.form_length=12&_et=840&tfd=26556 HTTP/2
+Host: analytics.google.com
+Cookie: NID=525=MfWXRjCRwri6Tq9UXxZGMlouitdX-cMm29hZb1pCQde7KGIcnuzG7Nd9dinnQyXt1-G4vWM5LXgDXDSX2fvK-mE9jz_NWYAZaFk6VcgI1FUCfhTMa4oIayj7-etfjKf76k5-EpB7w3oF7KdzCzcj3qqOWUSLrRGHfwCvFHGeydvkMGIxX9moxhhwYZpgSCNiIA; NID=525=lWlE7S7eqD70T9G7APN-rVz0vqePAMYabYs6BeikLypm9oMJJ9qSPDFkc5lzD26Z31kBxt2bm1DRx_4Fw8qvx4S3XMqrP-bXqc6ECj-hwlHzaoVemrK3sHlQOLNNwfqg4vTh_pJ_JMg6BiXgA9YhukciuqZpXisYLlgpZ6Qh0Dv2jbL9TyCNNow-GVt7XfXBhoyIT2bnsdEquULVXsL4loBYyC3IrvtIcZHoPUkNvYVix6m0fYmHUxRtxV7lny659cFt; GCL_AW_P=GCL.1754962216.EAIaIQobChMI9pWz1o-EjwMVSkZIAB31BB-QEAAYASAAEgJbi_D_BwE
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://login.sejaefi.com.br/
+Origin: https://login.sejaefi.com.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Length: 0
+Te: trailers
+
