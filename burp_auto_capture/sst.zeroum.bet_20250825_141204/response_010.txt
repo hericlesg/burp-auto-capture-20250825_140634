@@ -1,0 +1,22 @@
+HTTP/2 200 OK
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Cache-Control: no-cache
+Content-Type: text/plain
+Date: Mon, 25 Aug 2025 15:23:41 GMT
+Set-Cookie: FPID=FPID2.2.3Nb4whZGfqUwS1P4EclMJdHKbMDBxVx2rlmHU55kLtA%3D.1755192962; Max-Age=63072000; Domain=zeroum.bet; Path=/; Secure; HttpOnly
+Set-Cookie: FPAU=1.1.541171167.1755192961; Max-Age=6833539; Domain=zeroum.bet; Path=/; Secure
+Trace-Id: 4b31665b-4b63-4b2d-8380-d21e669987c1
+X-Accel-Buffering: no
+X-Content-Type-Options: nosniff
+X-Robots-Tag: noindex, nofollow
+
+event: message
+data: {"send_pixel":["https://www.google.com.br/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&dma=0&npa=0&gcd=13l3l3l3l1l1&tid=G-R38GP7L2V4&cid=3Nb4whZGfqUwS1P4EclMJdHKbMDBxVx2rlmHU55kLtA%3D.1755192962&gtm=45P91e58k1v9187957930z99226831139za200zb9187974028zd9187974028&tag_exp=101509157~103116026~103200004~103233427~104527907~104528501~104684208~104684211~104948813~105399921~105399923&_is_sw=0&_tu=BA&aip=1&z=403452944"],"options":{}}
+
+event: message
+data: {"send_pixel":["https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17392367413/?random=844198506&fst=1756135421683&cv=10&fmt=3&bg=ffffff&guid=ON&u_w=2560&u_h=1080&gtm=45P91e58k1v9187957930z99226831139za200zb9187974028zd9187974028&url=https%3A%2F%2Fwww.zeroum.bet%2Fcassino-online%2Fprovedores%2Fpragmaticplay%2Ftourosortudo&ref=https%3A%2F%2Fwww.zeroum.bet%2F&data=event%3Dpage_view&auid=541171167.1755192961&dma=0&npa=0&gcd=13l3l3l3l1l1&pscdl=noapi&_is_sw=0&tag_exp=101509157~103116026~103200004~103233427~104527907~104528501~104684208~104684211~104948813~105399921~105399923&_tu=BA"],"options":{}}
+
+event: message
+data: {"response":{"status_code":200,"body":""}}
+
