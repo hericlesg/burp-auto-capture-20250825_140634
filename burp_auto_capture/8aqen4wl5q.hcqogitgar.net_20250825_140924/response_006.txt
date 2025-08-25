@@ -1,0 +1,15 @@
+HTTP/2 200 OK
+Content-Type: application/json;charset=UTF-8
+Server: nginx
+Date: Mon, 25 Aug 2025 15:24:19 GMT
+Access-Control-Allow-Credentials: true
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Expires: 0
+Pragma: no-cache
+Access-Control-Allow-Origin: https://8aqen4wl5q.hcqogitgar.net
+X-Cache: Miss from cloudfront
+Via: 1.1 a48e67f634f30c414a6f72e65701a908.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: GRU3-P10
+X-Amz-Cf-Id: Z5QymACo4lXJ_Hqi8zEHn3MNIK8AK-dd1USb5MtfssjVCR6Dl_RjXg==
+
+{"error":0,"description":"OK"}
