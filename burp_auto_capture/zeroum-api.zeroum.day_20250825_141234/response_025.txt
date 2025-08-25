@@ -1,0 +1,21 @@
+HTTP/2 404 Not Found
+Date: Mon, 25 Aug 2025 15:20:16 GMT
+Content-Type: text/plain; charset=utf-8
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+Vary: Origin
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Il0%2FW7YydtYKyWqaUtW%2BZ8o4zXnH4gKjHGiehu3XXjVNNXL5xxg%2FL82eGLl%2FwRNoODZzAnoOj0Ndkf%2BQQ7ZuNVlNxQ%2B%2BLaAcVc4%2FVWi2uAwClXBw"}]}
+Set-Cookie: AWSALB=EmSwqyn75vI5heDH3VBJNVKnfo5GuMxgTF8ZCu77ExE8qH3lzNJHQysB79CXtSnIMhScethHkH55LmpO3RYKTJvESWlgQndC3sEd/fDRfOHU7qTIyKCFhokBejrn; Path=/; Expires=Mon, 01 Sep 2025 15:20:16 GMT
+Set-Cookie: AWSALBCORS=EmSwqyn75vI5heDH3VBJNVKnfo5GuMxgTF8ZCu77ExE8qH3lzNJHQysB79CXtSnIMhScethHkH55LmpO3RYKTJvESWlgQndC3sEd/fDRfOHU7qTIyKCFhokBejrn; SameSite=None; Secure; Path=/; Expires=Mon, 01 Sep 2025 15:20:16 GMT
+Cf-Ray: 974c128fab07556d-CDG
+
+No Connection with that ID
