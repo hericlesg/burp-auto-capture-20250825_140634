@@ -1,0 +1,16 @@
+GET /g/collect?v=2&tid=G-R38GP7L2V4&gtm=45Pe58k1v9187957930za200zb9187974028zd9187974028&_p=1756135190135&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105399921~105399923&cid=1683574790.1755192962&ecid=554660392&ul=pt-br&sr=2560x1080&ur=BR-GO&frm=0&pscdl=noapi&ec_mode=a&_eu=AEAAAAQ&sst.etld=google.com.br&sst.tft=1756135190135&sst.sp=1&sst.em_event=1&sst.lpc=12514111&sst.navt=n&sst.ude=1&sst.sw_exp=1&_s=3&dl=https%3A%2F%2Fwww.zeroum.bet%2F(middle-drawer%3Asign-up-success)%3FopenSuccess%3D&dr=https%3A%2F%2Fwww.zeroum.bet%2F&sid=1756134994&sct=7&seg=1&dt=&_tu=BA&en=page_view&_et=1565&tfd=131508&richsstsse HTTP/2
+Host: sst.zeroum.bet
+Cookie: stape=%7B%22utm_source%22%3A%22447611%22%2C%22utm_medium%22%3A%22TAP%22%2C%22utm_campaing%22%3A%22447611%22%2C%22email_address%22%3A%22cleonir400%40gmail.com%22%2C%22phone_number%22%3A%22%2B5511923541582%22%2C%22first_name%22%3A%22cleonir%22%2C%22last_name%22%3A%22ferreira%20de%20jesus%22%2C%22user_id%22%3A6433277%2C%22db%22%3A%2219701130%22%2C%22city%22%3A%22acreuna%22%2C%22region%22%3A%22go%22%2C%22postal_code%22%3A%2275960000%22%2C%22country%22%3A%22BR%22%7D; _dcid=dcid.1.1755192960858.913999552; st_user_id=2e87f950db1eccc2432e03bb20e1e59c; _gcl_au=1.1.541171167.1755192961; _ga_R38GP7L2V4=GS2.1.s1756134994$o7$g1$t1756135270$j59$l0$h554660392; _ga=GA1.1.1683574790.1755192962; _fbp=fb.1.1755192960875.1052514722; _gtmeec=eyJlbSI6Ijc4N2M2M2U5NDM1YzA0NWM3MDRhZjVhMWU2ZWFhNzhiZjkwOGE5NzdjZWMwMzM5ZTkzNTNhODFhZGE0YWEwOGEiLCJwaCI6IjhmZWQ1YTU2MzVlZDBkMDBhMzIyOTNlN2EwYmQ2OTBmMDVmODEyYzgwMDlmNmZkZGU5Y2JhMzFiM2IwYjg3NGEiLCJsbiI6ImNkZmE2MDkyNWViNWMxOGI5NzQwYWRjNDU2MWU2NDZhMTY2NTcyNmE2M2JlYzA5ZjY0ZTFmOTlkYTZmNTE2ODIiLCJmbiI6Ijk5M2JkYmJmMWZlNTk5YTg1Nzk2N2IwZTg2OGRmY2EwZDUzNmQ2Yjg3OTllN2ZjNTkxZjllYzhjOTVmYmRjMjYiLCJjdCI6IjMzNjQxZGZlYzJkNjlkZDZkZTZhYjNlZGQzYzNmYWRjZmFkMjg1ODk1NWI5YWRjNjU0MzllN2JjMzRkZjZkYjgiLCJzdCI6IjRjZDBlMjFhOWEwNzk1YTE0ZWM5YWE1ZjBlN2QxYWJmZjA0OTI1NjU3NzBlNDNlYWZkZjFlM2U4YWZlZDFmMzMiLCJ6cCI6IjYyODBlN2NjOTNhM2FhZGZjZDUwODI5ODg2NzAyZDQwNjJkMDE1MjIwMzFjMmFjZGMxMTQzM2QxNWYxM2QxY2YiLCJkYiI6IjM5MjNlYTI2NmYxNTliZWUzMjFkYTdjNzNjYTBhMjdhYzYxMGRmZTMwODA0NmU3NWRiMDVmOWNmZWY4NzFjMzQiLCJjb3VudHJ5IjoiODg1MDM2YTBkYTNkZmYzYzNlMDViYzc5YmY0OTM4MmIxMmJjNTA5ODUxNGVkNTdjZTA4NzVhYmExYWEyYzQwZCIsImV4dGVybmFsX2lkIjoiODhmNWMxYWFlMjQxMDg1MzI3MmI5MTUzNjY2ODA1ZTYwYWZmYmI1OTcyMWIxMWNkOTJjOTExYTdjMDU1ZDRmZCJ9; _clck=16g1myi%5E2%5Efyr%5E0%5E2052; FPID=FPID2.2.3Nb4whZGfqUwS1P4EclMJdHKbMDBxVx2rlmHU55kLtA%3D.1755192962; FPAU=1.1.541171167.1755192961; user_id=6276710; FPLC=bamF1CLrb70EjmTIOUHB4lOGUY7Phg36WUz2SxmGQrRdyuW%2FNZNx8Dhl0PHwpJSmn9LzLS4lcKj6Tmcdd8vYGUUYpE6a7ycCaBHWabaP4BcAk%2Fovae8%2FnOKi2c45Gw%3D%3D; FPGSID=1.1756134994.1756135190.G-R38GP7L2V4.zjUyGpEHkykTJQO9QetGbw
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+X-Effective-Origin: https://www.zeroum.bet
+X-Effective-Referer: https://www.zeroum.bet/(middle-drawer:sign-up-success)?openSuccess=
+Referer: https://sst.zeroum.bet/_/service_worker/5840/sw.js?origin=https%3A%2F%2Fwww.zeroum.bet
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Priority: u=4
+Te: trailers
+
