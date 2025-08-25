@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Content-Type: application/json;charset=utf-8
+Access-Control-Allow-Origin: https://app.sejaefi.com.br
+Access-Control-Allow-Credentials: true
+Accept-Ranges: bytes
+Age: 0
+Date: Mon, 25 Aug 2025 17:07:29 GMT
+X-Served-By: cache-gig2250040-GIG
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1756141649.183466,VS0,VE184
+Vary: Origin, Origin
+Cache-Control: no-store
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Content-Length: 2
+
+{}
