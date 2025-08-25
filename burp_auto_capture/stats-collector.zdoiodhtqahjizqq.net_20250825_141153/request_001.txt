@@ -1,0 +1,18 @@
+POST /log/data HTTP/1.1
+Host: stats-collector.zdoiodhtqahjizqq.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://8aqen4wl5q.hcqogitgar.net/
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 432
+Origin: https://8aqen4wl5q.hcqogitgar.net
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+Connection: close
+
+[{"meta":{"appType":"meta","environment":"8aqen4wl5q.hcqogitgar.net","application":"/gs2c/common/lobby/v1/apps/lobby/1.0.0/meta.html","vendor":"slots","language":"pt","timestamp":1756135462796,"casinoId":"ips_inplaysoft","width":397,"height":904,"tableId":"vs10fortnhs_cv99","userId":null,"appVersion":null,"appTypeVariant":null,"sessionId":null,"browserId":null,"referer":null},"data":{"type":"duration","name":"ready","count":1}}]
