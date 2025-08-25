@@ -1,0 +1,17 @@
+POST /2/httpapi HTTP/2
+Host: api2.amplitude.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://app.sejaefi.com.br/
+Content-Type: application/json
+Content-Length: 1541
+Origin: https://app.sejaefi.com.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+
+{"api_key":"154ad5ccf8a82732a59152a92644de7","events":[{"device_id":"8b8389b3-fd39-4592-9611-cb893a8ca00f","session_id":1756141518256,"time":1756141682269,"platform":"Web","language":"pt-BR","ip":"$remote","insert_id":"1e489589-1528-43ff-9c9e-79475504a5bf","event_type":"$identify","user_properties":{"$set":{"pid":"101ce1dc7688f8d11e477602edcea17eb66dc304"}},"event_id":76,"library":"amplitude-ts/2.8.1","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0","event_properties":{}},{"device_id":"8b8389b3-fd39-4592-9611-cb893a8ca00f","session_id":1756141518256,"time":1756141682271,"platform":"Web","language":"pt-BR","ip":"$remote","insert_id":"afdca3f7-b1d8-4c61-b422-80c0472ad7af","event_type":"menu_pix_do_pix","event_properties":{"environment":"production","account_modality":"corporation","role":"admin"},"event_id":77,"library":"amplitude-ts/2.8.1","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0"},{"device_id":"8b8389b3-fd39-4592-9611-cb893a8ca00f","session_id":1756141518256,"time":1756141682272,"platform":"Web","language":"pt-BR","ip":"$remote","insert_id":"6077848e-0e59-4a26-8058-077252193177","event_type":"Selecionou pix via chave pix","event_properties":{"environment":"production","account_modality":"corporation","role":"admin"},"event_id":78,"library":"amplitude-ts/2.8.1","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0"}],"options":{},"client_upload_time":"2025-08-25T17:08:03.280Z"}
