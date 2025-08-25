@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250825_140755", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-sportsbookapi.zeroum.day_20250825_140755/request_001.txt", 
+      "url": "https://zeroum-sportsbookapi.zeroum.day:443/website/getmultiplebonussettings?LanguageId=pt", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/zeroum-sportsbookapi.zeroum.day_20250825_140755/response_001.txt", 
+      "timestamp": 1756135200631
+    }
+  ], 
+  "host": "zeroum-sportsbookapi.zeroum.day", 
+  "total_requests": 1
+}
