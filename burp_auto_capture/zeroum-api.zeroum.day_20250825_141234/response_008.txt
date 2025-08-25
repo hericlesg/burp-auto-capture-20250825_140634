@@ -1,0 +1,21 @@
+HTTP/2 200 OK
+Date: Mon, 25 Aug 2025 15:17:17 GMT
+Content-Type: application/json; charset=utf-8
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+Vary: Origin
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=QdNSs1y4uLy3JAhYqvbzPh5v7A0RkVMWZl5gEhIhJygtSwe0DGSTcmQC2CbPMLgt%2BJmDxpVy8mkfYSFEDwBrK9ibcR2QvkW0NuxJEh4KyaANLeBn"}]}
+Set-Cookie: AWSALB=N4xP/zdnx1w5Ywb4BmvImIQDk23Jx2fUE9/WObgnwBJ32N2QQolAwxmec8aN9CNPFia9aNF/EMQ9roMFx0IGPglJtg7DQmup6oFwfeF29Abe/jJO2yTeuhaFe8a6; Path=/; Expires=Mon, 01 Sep 2025 15:17:17 GMT
+Set-Cookie: AWSALBCORS=N4xP/zdnx1w5Ywb4BmvImIQDk23Jx2fUE9/WObgnwBJ32N2QQolAwxmec8aN9CNPFia9aNF/EMQ9roMFx0IGPglJtg7DQmup6oFwfeF29Abe/jJO2yTeuhaFe8a6; SameSite=None; Secure; Path=/; Expires=Mon, 01 Sep 2025 15:17:17 GMT
+Cf-Ray: 974c0e317fd5e187-MRS
+
+{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvcmlnaW5hbF90b2tlbiI6ImQwZWQ2OTdhLWRhN2ItNDc3Yy05NGZiLTU2MTZiYzRkOWQ4MyIsImV4cCI6MTc1NjEzNTMzN30.TnbmQaBaMwy93FKfLHwrF0k205r9g5QBPDkAFZRhM80","flow":[{"id":237,"order":1,"type":11,"isCompleted":false,"title":"<p style=\"text-align: center;\">Bem-vindo &agrave; ZeroUm</p>","description":"<p style=\"text-align: center;\">&nbsp;Coloque seu CPF.</p>","imageUrl":"/assets/images/ZU_bem-vindo-a-zeroum---step-1---725x825.webp","cpf":{"type":3,"label":"CPF","placeholder":"000.000.000-00","required":true,"cpfAddress":true},"terms":{"label":"<p>Aceito os <a href=\"https://zeroum.bet/info/terms\">Termos e Condi&ccedil;&otilde;es</a>, a <a href=\"https://zeroum.bet/info/policy\">Pol&iacute;tica de Privacidade</a> e a <a href=\"https://zeroum.bet/info/amlandkyc\">Pol&iacute;tica de PLD/FTP &amp; KYC</a>.</p>","required":true},"button":{"label":"Continuar"},"login":{"label":"<p>J&aacute; tem conta?</p>","button":{"label":"Entrar"},"required":true},"help":{"label":"<p>Precisa de ajuda?</p>","button":{"label":"Fale Conosco"},"required":true}},{"id":238,"order":2,"type":12,"title":"<h4 style=\"text-align: center;\"><span style=\"font-size: 12pt;\">Ol&aacute;, {{name}} ð</span></h4>","isCompleted":false,"imageUrl":"/assets/images/ZU_ZONAVIP---step-2--725x825.webp","address":{"label":"EndereÃ§o","placeholder":"ex. Rua da Aposta, 31 - Apto 13, Bairro Amarelo","required":true},"city":{"label":"Cidade","placeholder":"City place holder","required":true},"zip":{"label":"CEP","placeholder":"00000-000","required":true},"country":null,"state":{"label":"Estado","placeholder":"State pt","required":true,"defaultCountryId":716},"district":{"label":"Bairro","placeholder":"ex. Laranjeiras","required":true},"phoneNumber":{"label":"Telefone","required":true,"placeholder":"00 00000-0000","mask":"00 00000-0000"},"phoneNumberPrefix":"+55","email":{"label":"Email","required":true,"placeholder":"ex. seuemail@gmail.com"},"repeatPassword":{"label":"Repeat Password pt","error":"Password doesn't match pt","required":true},"password":{"label":"Senha","placeholder":null,"required":true,"validations":{"minLength":{"label":"MÃ­nimo 6 caractere","rule":6},"maxLength":{"label":"MÃ¡ximo 100 caracteres","rule":100},"requireAtLeastLetter":null,"requireAtLeastNumber":null,"requireAtLeastSpecialCharacter":null,"requireAtLeastUpperCase":{"label":"Pelo menos uma letra maiÃºscula e uma letra minÃºscula","rule":false}}},"button":{"label":"Criar Conta"},"help":{"label":"<p class=\"p1\">Precisar de ajuda?</p>","button":{"label":"Fale Conosco"},"required":true}}],"cancelModal":{"title":"<p>Voc&ecirc; tem certeza?</p>","description":"<p>Falta pouco para criar uma conta na ZeroUm!</p>","continueButton":{"label":"Validar e Criar Conta"},"cancelButton":{"label":"Cancelar Registro"},"startKycButton":{}},"successModal":{"title":"<p>ð Parab&eacute;ns, {{name}}!</p>","description":"<p>Voc&ecirc; est&aacute; pronto para explorar e aproveitar tudo que a ZeroUm tem a oferecer!</p>","supportLinkLabel":"Precisa de ajuda para comeÃ§ar?","continueButton":{"label":"ComeÃ§ar a jogar!"},"cancelButton":{},"startKycButton":{},"redirectPage":4},"totalSteps":2}
