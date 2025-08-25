@@ -1,0 +1,13 @@
+GET /gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/client/resources.json?key=f787c3be7f4e057681e38768f7326222 HTTP/2
+Host: 8aqen4wl5q.hcqogitgar.net
+Cookie: _ga=GA1.3.1775327751.1756135458; _gid=GA1.3.7025177.1756135458
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://8aqen4wl5q.hcqogitgar.net/gs2c/html5Game.do?jackpotid=0&gname=Touro%20Sortudo%20CV&extGame=1&ext=0&cb_target=exist_tab&symbol=vs10fortnhs_cv99&jurisdictionID=BR&lobbyUrl=js://window.open(%27https%3A%2F%2Fzeroum.bet%2Fcasino%27,%27_parent%27,%27%27)&minilobby=false&mgckey=AUTHTOKEN@e120f24dcdd3a7e9917533c2f898879d5ee33df0a202ab35120007a20842bb71~stylename@ips_inplaysoft~SESSION@f57c3f37-b0f4-43c8-9bcc-0420a75e117b~SN@dc13ea52&tabName=
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Te: trailers
+
