@@ -1,0 +1,18 @@
+POST /cdn-cgi/rum? HTTP/2
+Host: login.sejaefi.com.br
+Cookie: machine=d25e8398c33bb50d2de2e0129ce4a802; _gcl_au=1.1.1148492245.1752292318.2137364622.1756141546.1756141608; _ga_JDQG84BJK7=GS2.1.s1756141517$o7$g1$t1756141640$j60$l0$h1384143506; _ga=GA1.1.1670215502.1752292318; _clck=103nrd5%5E2%5Efyr%5E0%5E2019; afUserId=e41397da-a8dc-48ce-8e05-094f38855219-p; _hlr=; AMP_154ad5ccf8=JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjI4YjgzODliMy1mZDM5LTQ1OTItOTYxMS1jYjg5M2E4Y2EwMGYlMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNzU2MTQxNTE4MjU2JTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTc1NjE0MTU3MTY1NiUyQyUyMmxhc3RFdmVudElkJTIyJTNBNzUlMkMlMjJwYWdlQ291bnRlciUyMiUzQTAlN0Q=; _ga_9WDE7B64HP=GS2.1.s1756141271$o2$g0$t1756141271$j60$l0$h33641115; AdoptVisitorId=KwZgHAZhCGCMEFowGMCmATBAWdAGXC00wYCA7KmQEZjqoggRnRA=; AdoptConsent=N4Ig7gpgRgzglgFwgSQCIgFwgIwCYAsAnABwCGEhAtACbUBmdl+ADAMauWkBsXjuA7LmpQArMyjMRXXCAA0IAG5x4CAPYAnZNUwgRAZmINS2RsVYRqTas2adSI4pX4R+UYtQh69dfqTkhVAAcEZAA7ABVSAHMYTABtAF15IIQAeQBXBEiY+KSQVlVQmAhQkO0sfH4ogAUARz95CAUSrIBPQIgdMGIoOAAJAC8IADl/AqKWgDUIdXhCzGZ5dMDqUiRqAEEEHVxmXBFKZkd98Ox+DGZsDGx8ADo9fhEALRAAXyA===; _gcl_aw=GCL.1754962217.EAIaIQobChMI9pWz1o-EjwMVSkZIAB31BB-QEAAYASAAEgJbi_D_BwE; connect.sid=s%3Aapp%3ANTMyZmYyZDMtM2NjYS00OTU0LTg1NzUtODA0YWJiZmNlM2Rl.a2a5YivD2YfVbK0L3yrJ1X5sKqVeT0zsoTuXygrHjtM; AF_SYNC=1756141521469; machine-login=caadc770-3b3a-479e-98c8-8e7144f722ab; a.code=22a44d96ee7ddbd75bc0495b46075e30
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://login.sejaefi.com.br/oauth/authorize?redirect_to=https://app.sejaefi.com.br/
+Content-Type: application/json
+Content-Length: 1019
+Origin: https://login.sejaefi.com.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Priority: u=6
+Te: trailers
+
+{"referrer":"https://app.sejaefi.com.br/","eventType":3,"versions":{"js":"2024.6.1","fl":"2025.8.0"},"pageloadId":"34163aaf-b23f-4e75-a1ef-c6550e8c4947","location":"https://login.sejaefi.com.br/oauth/authorize","landingPath":"/oauth/authorize","startTime":1756141582230,"nt":"navigate","serverTimings":[{"name":"cfCacheStatus","dur":0,"desc":"DYNAMIC"},{"name":"cfOrigin","dur":229,"desc":""},{"name":"cfEdge","dur":34,"desc":""}],"siteToken":"95716dc7cb1d47d0b11c351e9104e239","lcp":{"value":1467,"path":"/oauth/authorize","element":"#portal-link>img","size":9501,"url":"https://gerencianet-pub-prod-1.s3.us-east-1.amazonaws.com/imagens/marcas/efi-bank-monochrome-orange.svg","rld":0,"rlt":0,"erd":77,"fp":null},"fid":{"value":6,"path":"/oauth/authorize","element":"#username","name":"mousedown"},"cls":{"value":-1},"fcp":{"value":1458,"path":"/oauth/authorize"},"ttfb":{"value":1390,"path":"/oauth/authorize"},"inp":{"value":-1},"timingsV2":{"nextHopProtocol":"h2","transferSize":10154,"decodedBodySize":9854},"st":1}
