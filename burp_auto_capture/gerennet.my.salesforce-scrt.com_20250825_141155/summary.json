@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250825_141155", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/gerennet.my.salesforce-scrt.com_20250825_141155/request_001.txt", 
+      "url": "https://gerennet.my.salesforce-scrt.com:443/embeddedservice/v1/businesshours?orgId=00D5Y000002VYlI&esConfigName=Miaw_Chat_Web_Usuario_Verificado", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/gerennet.my.salesforce-scrt.com_20250825_141155/response_001.txt", 
+      "timestamp": 1756141640719
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/gerennet.my.salesforce-scrt.com_20250825_141155/request_002.txt", 
+      "url": "https://gerennet.my.salesforce-scrt.com:443/embeddedservice/v1/embedded-service-config?orgId=00D5Y000002VYlI&esConfigName=Miaw_Chat_Web_Usuario_Verificado&language=pt_BR", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/gerennet.my.salesforce-scrt.com_20250825_141155/response_002.txt", 
+      "timestamp": 1756141640719
+    }
+  ], 
+  "host": "gerennet.my.salesforce-scrt.com", 
+  "total_requests": 2
+}
