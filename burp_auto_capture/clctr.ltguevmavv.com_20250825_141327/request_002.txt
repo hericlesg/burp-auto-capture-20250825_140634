@@ -1,0 +1,19 @@
+POST /collect HTTP/2
+Host: clctr.ltguevmavv.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+X-Api-Key: RSIlypo2lYVqM6b0krue2BsezYg6XBvm
+X-Faro-Session-Id: pA6VZdJiFa
+Referer: https://8aqen4wl5q.hcqogitgar.net/
+Content-Length: 1156
+Origin: https://8aqen4wl5q.hcqogitgar.net
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=4
+Te: trailers
+
+{"meta":{"sdk":{"version":"1.19.0"},"app":{"name":"frontend","version":"1.0.0"},"browser":{"name":"Firefox","version":"142.0","os":"Windows 10","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0","language":"pt-BR","mobile":false,"brands":"unknown","viewportWidth":"397","viewportHeight":"904"},"page":{"url":"https://8aqen4wl5q.hcqogitgar.net/gs2c/html5Game.do?jackpotid=0&gname=Touro%20Sortudo%20CV&extGame=1&ext=0&cb_target=exist_tab&symbol=vs10fortnhs_cv99&jurisdictionID=BR&lobbyUrl=js://window.open(%27https%3A%2F%2Fzeroum.bet%2Fcasino%27,%27_parent%27,%27%27)&minilobby=false&mgckey=AUTHTOKEN@e120f24dcdd3a7e9917533c2f898879d5ee33df0a202ab35120007a20842bb71~stylename@ips_inplaysoft~SESSION@f57c3f37-b0f4-43c8-9bcc-0420a75e117b~SN@dc13ea52&tabName="},"session":{"id":"pA6VZdJiFa","attributes":{"envId":"94","static_version":"337715","origin_referrer":"https://www.zeroum.bet/"}}},"measurements":[{"type":"CustomTimerLoadingTracker","values":{"value":3327},"timestamp":"2025-08-25T15:24:31.134Z","context":{"category":"uht_loading","symbol":"vs10fortnhs_cv99","variable":"_X_import_instantiate_duration"}}]}
