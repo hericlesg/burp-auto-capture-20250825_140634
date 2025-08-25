@@ -1,0 +1,87 @@
+{
+  "capture_timestamp": "20250825_141159", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/sst.zeroum.bet_20250825_141159/request_001.txt", 
+      "url": "https://sst.zeroum.bet:443/g/collect?v=2&tid=G-R38GP7L2V4&gtm=45Pe58k1v9187957930za200zb9187974028zd9187974028&_p=1756134993841&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~104527906~104528501~104684208~104684211~104948813~105399921~105399923&cid=1683574790.1755192962&ecid=554660392&ul=pt-br&sr=2560x1080&ur=BR-GO&frm=0&pscdl=noapi&_eu=AAAAAAQ&sst.etld=google.com.br&sst.tft=1756134993841&sst.lpc=188275619&sst.navt=n&sst.ude=1&sst.sw_exp=1&_s=2&sid=1756134994&sct=7&seg=1&dl=https%3A%2F%2Fwww.zeroum.bet%2F&dt=Zeroum%20%7C%20Plataforma%20Nova%20de%20Apostas%20Esportivas%20e%20Cassino%20Online%20%7C%20A%20Melhor%20do%20Brasil&_tu=BA&en=user_engagement&_et=10969&tfd=39678", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/sst.zeroum.bet_20250825_141159/response_001.txt", 
+      "timestamp": 1756135029632
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sst.zeroum.bet_20250825_141159/request_002.txt", 
+      "url": "https://sst.zeroum.bet:443/g/collect?v=2&tid=G-R38GP7L2V4&gtm=45Pe58k1v9187957930z89187974028za200zb9187974028zd9187974028&_p=1756135029669&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~104527907~104528500~104684208~104684211~104948813~105102050~105399921~105399923&cid=1683574790.1755192962&ecid=554660392&ul=pt-br&sr=2560x1080&ur=BR-GO&frm=0&pscdl=noapi&ec_mode=c&_eu=AAAACAQ&sst.etld=google.com.br&sst.tft=1756135029669&sst.lpc=188275619&sst.navt=r&sst.ude=1&sst.sw_exp=1&_s=1&uid=6276710&sid=1756134994&sct=7&seg=1&dl=https%3A%2F%2Fwww.zeroum.bet%2F&dt=Zeroum%20%7C%20Plataforma%20Nova%20de%20Apostas%20Esportivas%20e%20Cassino%20Online%20%7C%20A%20Melhor%20do%20Brasil&_tu=BA&en=page_view&_et=13&ep.user_data._tag_mode=AUTO&tfd=892&richsstsse", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/sst.zeroum.bet_20250825_141159/response_002.txt", 
+      "timestamp": 1756135030229
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sst.zeroum.bet_20250825_141159/request_003.txt", 
+      "url": "https://sst.zeroum.bet:443/g/collect?v=2&tid=G-R38GP7L2V4&gtm=45Pe58k1v9187957930z89187974028za200zb9187974028zd9187974028&_p=1756135190135&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105399921~105399923&cid=1683574790.1755192962&ecid=554660392&ul=pt-br&sr=2560x1080&ur=BR-GO&frm=0&pscdl=noapi&ec_mode=c&_eu=AAAACAQ&sst.etld=google.com.br&sst.tft=1756135190135&sst.lpc=188275619&sst.navt=n&sst.ude=1&sst.sw_exp=1&_s=1&uid=6276710&sid=1756134994&sct=7&seg=1&dl=https%3A%2F%2Fwww.zeroum.bet%2F&dt=Zeroum%20%7C%20Plataforma%20Nova%20de%20Apostas%20Esportivas%20e%20Cassino%20Online%20%7C%20A%20Melhor%20do%20Brasil&_tu=BA&en=page_view&ep.user_data._tag_mode=AUTO&tfd=51286&richsstsse", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/sst.zeroum.bet_20250825_141159/response_003.txt", 
+      "timestamp": 1756135190928
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sst.zeroum.bet_20250825_141159/request_004.txt", 
+      "url": "https://sst.zeroum.bet:443/g/collect?v=2&tid=G-R38GP7L2V4&gtm=45Pe58k1v9187957930z89187974028za200zb9187974028zd9187974028&_p=1756135190135&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105399921~105399923&cid=1683574790.1755192962&ecid=554660392&ul=pt-br&sr=2560x1080&ur=BR-GO&frm=0&pscdl=noapi&ec_mode=c&_eu=AIAAAAQ&sst.etld=google.com.br&sst.tft=1756135190135&sst.lpc=188275619&sst.navt=n&sst.ude=1&sst.sw_exp=1&_s=2&uid=6276710&sid=1756134994&sct=7&seg=1&dl=https%3A%2F%2Fwww.zeroum.bet%2F&dt=Zeroum%20%7C%20Plataforma%20Nova%20de%20Apostas%20Esportivas%20e%20Cassino%20Online%20%7C%20A%20Melhor%20do%20Brasil&_tu=BA&en=sign_up&_et=74565&ep.user_data.email=cleonir400%40gmail.com&ep.user_data._tag_mode=AUTO&tfd=129939&richsstsse", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/sst.zeroum.bet_20250825_141159/response_004.txt", 
+      "timestamp": 1756135269756
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sst.zeroum.bet_20250825_141159/request_005.txt", 
+      "url": "https://sst.zeroum.bet:443/g/collect?v=2&tid=G-R38GP7L2V4&gtm=45Pe58k1v9187957930za200zb9187974028zd9187974028&_p=1756135190135&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105399921~105399923&cid=1683574790.1755192962&ecid=554660392&ul=pt-br&sr=2560x1080&ur=BR-GO&frm=0&pscdl=noapi&ec_mode=a&_eu=AEAAAAQ&sst.etld=google.com.br&sst.tft=1756135190135&sst.sp=1&sst.em_event=1&sst.lpc=12514111&sst.navt=n&sst.ude=1&sst.sw_exp=1&_s=3&dl=https%3A%2F%2Fwww.zeroum.bet%2F(middle-drawer%3Asign-up-success)%3FopenSuccess%3D&dr=https%3A%2F%2Fwww.zeroum.bet%2F&sid=1756134994&sct=7&seg=1&dt=&_tu=BA&en=page_view&_et=1565&tfd=131508&richsstsse", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/sst.zeroum.bet_20250825_141159/response_005.txt", 
+      "timestamp": 1756135271129
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sst.zeroum.bet_20250825_141159/request_006.txt", 
+      "url": "https://sst.zeroum.bet:443/g/collect?v=2&tid=G-R38GP7L2V4&gtm=45Pe58k1v9187957930z89187974028za200zb9187974028zd9187974028&_p=1756135190135&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105399921~105399923&cid=1683574790.1755192962&ecid=554660392&ul=pt-br&sr=2560x1080&ur=BR-GO&frm=0&pscdl=noapi&ec_mode=c&_eu=AIAAAAQ&sst.etld=google.com.br&sst.tft=1756135190135&sst.lpc=188275619&sst.navt=n&sst.ude=1&sst.sw_exp=1&_s=2&uid=6276710&sid=1756134994&sct=7&seg=1&dl=https%3A%2F%2Fwww.zeroum.bet%2F&dt=Zeroum%20%7C%20Plataforma%20Nova%20de%20Apostas%20Esportivas%20e%20Cassino%20Online%20%7C%20A%20Melhor%20do%20Brasil&_tu=BA&en=sign_up&_et=74565&ep.user_data.email=cleonir400%40gmail.com&ep.user_data._tag_mode=AUTO&tfd=129939&richsstsse", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/sst.zeroum.bet_20250825_141159/response_006.txt", 
+      "timestamp": 1756135274687
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sst.zeroum.bet_20250825_141159/request_007.txt", 
+      "url": "https://sst.zeroum.bet:443/g/collect?v=2&tid=G-R38GP7L2V4&gtm=45Pe58k1v9187957930za200zb9187974028zd9187974028&_p=1756135190135&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105399921~105399923&cid=1683574790.1755192962&ecid=554660392&ul=pt-br&sr=2560x1080&ur=BR-GO&frm=0&pscdl=noapi&ec_mode=a&_eu=AEAAAAQ&sst.etld=google.com.br&sst.tft=1756135190135&sst.sp=1&sst.em_event=1&sst.lpc=188275619&sst.navt=n&sst.ude=1&sst.sw_exp=1&_s=4&dl=https%3A%2F%2Fwww.zeroum.bet%2F%3FopenSuccess%3D&dr=https%3A%2F%2Fwww.zeroum.bet%2F(middle-drawer%3Asign-up-success)%3FopenSuccess%3D&sid=1756134994&sct=7&seg=1&dt=&_tu=BA&en=page_view&_et=11250&tfd=142765&richsstsse", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/sst.zeroum.bet_20250825_141159/response_007.txt", 
+      "timestamp": 1756135282454
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sst.zeroum.bet_20250825_141159/request_008.txt", 
+      "url": "https://sst.zeroum.bet:443/g/collect?v=2&tid=G-R38GP7L2V4&gtm=45Pe58k1v9187957930za200zb9187974028zd9187974028&_p=1756135190135&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105399921~105399923&cid=1683574790.1755192962&ecid=554660392&ul=pt-br&sr=2560x1080&ur=BR-GO&frm=0&pscdl=noapi&ec_mode=a&_eu=AEAAAAQ&sst.etld=google.com.br&sst.tft=1756135190135&sst.sp=1&sst.em_event=1&sst.lpc=188275619&sst.navt=n&sst.ude=1&sst.sw_exp=1&_s=4&dl=https%3A%2F%2Fwww.zeroum.bet%2F%3FopenSuccess%3D&dr=https%3A%2F%2Fwww.zeroum.bet%2F(middle-drawer%3Asign-up-success)%3FopenSuccess%3D&sid=1756134994&sct=7&seg=1&dt=&_tu=BA&en=page_view&_et=11250&tfd=142765&richsstsse", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/sst.zeroum.bet_20250825_141159/response_008.txt", 
+      "timestamp": 1756135287473
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sst.zeroum.bet_20250825_141159/request_009.txt", 
+      "url": "https://sst.zeroum.bet:443/g/collect?v=2&tid=G-R38GP7L2V4&gtm=45Pe58k1v9187957930za200zb9187974028zd9187974028&_p=1756135399157&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~104527907~104528501~104684208~104684211~104948813~105399921~105399923&cid=1683574790.1755192962&ecid=554660392&ul=pt-br&sr=2560x1080&ur=BR-GO&frm=0&pscdl=noapi&ec_mode=a&_eu=AEAAAAQ&sst.etld=google.com.br&sst.tft=1756135399157&sst.sp=1&sst.em_event=1&sst.lpc=184524077&sst.navt=r&sst.ude=1&sst.sw_exp=1&_s=2&dl=https%3A%2F%2Fwww.zeroum.bet%2Fcassino-online%2Fprovedores%2Fpragmaticplay%2Ftourosortudo&dr=https%3A%2F%2Fwww.zeroum.bet%2F&sid=1756134994&sct=7&seg=1&dt=&_tu=BA&en=page_view&_et=12408&tfd=18464&richsstsse", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/sst.zeroum.bet_20250825_141159/response_009.txt", 
+      "timestamp": 1756135416744
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sst.zeroum.bet_20250825_141159/request_010.txt", 
+      "url": "https://sst.zeroum.bet:443/g/collect?v=2&tid=G-R38GP7L2V4&gtm=45Pe58k1v9187957930za200zb9187974028zd9187974028&_p=1756135399157&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~104527907~104528501~104684208~104684211~104948813~105399921~105399923&cid=1683574790.1755192962&ecid=554660392&ul=pt-br&sr=2560x1080&ur=BR-GO&frm=0&pscdl=noapi&ec_mode=a&_eu=AEAAAAQ&sst.etld=google.com.br&sst.tft=1756135399157&sst.sp=1&sst.em_event=1&sst.lpc=184524077&sst.navt=r&sst.ude=1&sst.sw_exp=1&_s=2&dl=https%3A%2F%2Fwww.zeroum.bet%2Fcassino-online%2Fprovedores%2Fpragmaticplay%2Ftourosortudo&dr=https%3A%2F%2Fwww.zeroum.bet%2F&sid=1756134994&sct=7&seg=1&dt=&_tu=BA&en=page_view&_et=12408&tfd=18464&richsstsse", 
+      "sequence_number": 10, 
+      "response_file": "burp_auto_capture/sst.zeroum.bet_20250825_141159/response_010.txt", 
+      "timestamp": 1756135421758
+    }
+  ], 
+  "host": "sst.zeroum.bet", 
+  "total_requests": 10
+}
