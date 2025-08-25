@@ -1,0 +1,14 @@
+HTTP/2 204 No Content
+Vary: Origin
+Linkedin-Action: 1
+Access-Control-Allow-Origin: https://app.sejaefi.com.br
+Access-Control-Allow-Credentials: true
+X-Li-Fabric: prod-lor1
+X-Li-Pop: afd-prod-lor1-x
+X-Li-Proto: http/2
+X-Li-Uuid: AAY9M5gwFZvcWfzaZj0h1A==
+X-Cache: CONFIG_NOCACHE
+Alt-Svc: h3=":443"; ma=86400
+X-Msedge-Ref: Ref A: E30B0DD3A4D04B458AD3871FCDDCA3F4 Ref B: RIO201060611039 Ref C: 2025-08-25T17:07:46Z
+Date: Mon, 25 Aug 2025 17:07:45 GMT
+
