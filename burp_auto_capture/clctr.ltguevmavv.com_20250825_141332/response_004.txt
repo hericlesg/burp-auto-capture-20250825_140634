@@ -1,0 +1,12 @@
+HTTP/2 204 No Content
+Date: Mon, 25 Aug 2025 15:24:36 GMT
+Access-Control-Allow-Headers: Authorization, Origin, X-Requested-With, Content-Type, Accept, x-api-key, x-faro-session-id
+Server: nginx/1.27.0
+Access-Control-Allow-Origin: https://8aqen4wl5q.hcqogitgar.net
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+X-Cache: Miss from cloudfront
+Via: 1.1 3e1d16a0d00396c931fa139a61520d38.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: GRU3-P7
+X-Amz-Cf-Id: YqutlhVyGM1hrBbQGqvnYsbagagFIJAe6cNVc4VMY3uu05aJ54bkBQ==
+
