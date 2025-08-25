@@ -1,0 +1,17 @@
+GET /basehub?languageId=pt&timeZone=-3&id=zkMPHWwP0Euotn_dCyP9PA HTTP/1.1
+Host: zeroum-ws.zeroum.day
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: https://www.zeroum.bet
+Sec-WebSocket-Key: cY0Zi32L9lWgBstnRR8VOg==
+Connection: keep-alive, Upgrade
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: websocket
+Sec-Fetch-Site: cross-site
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
