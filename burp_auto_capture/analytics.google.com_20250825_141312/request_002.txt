@@ -1,0 +1,14 @@
+GET /g/s/collect?dma=0&npa=0&gcd=13l3l3l3l1l1&gtm=45P91e58l0h2v9187957930z99226831139za200zb9187974028zd9187974028&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105399921~105399923&_is_sw=0&_tu=BA&_gsid=R38GP7L2V4zjUyGpEHkykTJQO9QetGbw HTTP/2
+Host: analytics.google.com
+Cookie: NID=525=Kqf6p9G-AEpINM2P7VpBm8nRkOm0w6hDrPjgU5zLuPQ4pgC7LBa8JnIbltMdL0l4L9LtZKa2MnwIkroivj9orwmT6HxT43U2HF5ovdulc3myJOMH7TOGRFO39VOxOYTv7NMGyzaXxHjuSnSLj5nXILYjmnDhszkx2h-b7dIyDF9v8iGsmNTMuFEmCJnfIT2QYoaMBoXHlL4wiVmEJuCTNvn2vzzNRqIkzQoUq--KwhUkU0VQveAGxRYjvx--I7c
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://sst.zeroum.bet/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+
