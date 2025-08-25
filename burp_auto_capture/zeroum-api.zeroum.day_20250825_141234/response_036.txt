@@ -1,0 +1,21 @@
+HTTP/2 200 OK
+Date: Mon, 25 Aug 2025 15:24:05 GMT
+Content-Type: application/json; charset=utf-8
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+Vary: Origin
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=gMVVAQshT4eV6uBFdtv%2BgigaNJkSLrs7xMQOCjw0LVDVPxeNrLHUDsDr7g%2BDmcsq5BUkFo5rRTNVdizDxrq595zv2Zevlr%2F02DGSdLmIn%2Fs9SLMs"}]}
+Set-Cookie: AWSALB=EhCWzY5xwF4MVb0q3FFlzcryYND8Y51/jDYiZJgqAWgvPb7OnBpfF/PiV+lm8hKz7H4OjjQZLiO8RSMPjeBqxPlBx6YD+eoQTxROtbXRlk0oocNW+WJpYXShe+EL; Path=/; Expires=Mon, 01 Sep 2025 15:24:05 GMT
+Set-Cookie: AWSALBCORS=EhCWzY5xwF4MVb0q3FFlzcryYND8Y51/jDYiZJgqAWgvPb7OnBpfF/PiV+lm8hKz7H4OjjQZLiO8RSMPjeBqxPlBx6YD+eoQTxROtbXRlk0oocNW+WJpYXShe+EL; SameSite=None; Secure; Path=/; Expires=Mon, 01 Sep 2025 15:24:05 GMT
+Cf-Ray: 974c18236e6e53a8-MRS
+
+[{"ps":2004188,"pn":"Touro Sortudo","s":"tourosortudo","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2025-08-25T15:23:47.358Z","p":"Cristina","ba":1.0000,"wa":15.0000,"i":"/assets/images/products/pragmaticplay/touro-sortudo-thumb.webp","m":15.0},{"ps":2004188,"pn":"Touro Sortudo","s":"tourosortudo","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2025-08-25T15:23:16.986Z","p":"Joana","ba":0.5000,"wa":48.5000,"i":"/assets/images/products/pragmaticplay/touro-sortudo-thumb.webp","m":97.0},{"ps":2004188,"pn":"Touro Sortudo","s":"tourosortudo","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2025-08-25T15:23:40.181Z","p":"GUILHERME","ba":0.1000,"wa":2.3000,"i":"/assets/images/products/pragmaticplay/touro-sortudo-thumb.webp","m":23.0},{"ps":2004188,"pn":"Touro Sortudo","s":"tourosortudo","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2025-08-25T15:23:35.317Z","p":"Ilanna","ba":0.1000,"wa":1.0000,"i":"/assets/images/products/pragmaticplay/touro-sortudo-thumb.webp","m":10.0},{"ps":2004188,"pn":"Touro Sortudo","s":"tourosortudo","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2025-08-25T15:23:01.162Z","p":"Marileide","ba":1.0000,"wa":70.5000,"i":"/assets/images/products/pragmaticplay/touro-sortudo-thumb.webp","m":70.5},{"ps":2004188,"pn":"Touro Sortudo","s":"tourosortudo","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2025-08-25T15:23:08.045Z","p":"Andreia","ba":0.1000,"wa":4.0000,"i":"/assets/images/products/pragmaticplay/touro-sortudo-thumb.webp","m":40.0},{"ps":2004188,"pn":"Touro Sortudo","s":"tourosortudo","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2025-08-25T15:23:30.634Z","p":"Ilanna","ba":0.1000,"wa":1.0000,"i":"/assets/images/products/pragmaticplay/touro-sortudo-thumb.webp","m":10.0},{"ps":2004188,"pn":"Touro Sortudo","s":"tourosortudo","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2025-08-25T15:23:28.151Z","p":"Aurelio","ba":0.1000,"wa":2.2500,"i":"/assets/images/products/pragmaticplay/touro-sortudo-thumb.webp","m":22.5},{"ps":2004188,"pn":"Touro Sortudo","s":"tourosortudo","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2025-08-25T15:23:27.107Z","p":"Agressino","ba":0.2000,"wa":2.0000,"i":"/assets/images/products/pragmaticplay/touro-sortudo-thumb.webp","m":10.0},{"ps":2004188,"pn":"Touro Sortudo","s":"tourosortudo","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2025-08-25T15:23:25.33Z","p":"Bruno","ba":0.1000,"wa":1.0000,"i":"/assets/images/products/pragmaticplay/touro-sortudo-thumb.webp","m":10.0}]
