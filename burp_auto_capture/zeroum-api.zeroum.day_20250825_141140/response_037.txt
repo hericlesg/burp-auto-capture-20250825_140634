@@ -1,0 +1,21 @@
+HTTP/2 200 OK
+Date: Mon, 25 Aug 2025 15:24:09 GMT
+Content-Type: application/json; charset=utf-8
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+Vary: Origin
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=nq1h5jVEjCPXAZtYetij6HjlnMzxP0UFqoHMAXFg%2FKn%2FaO7Tu8%2F3pETheSlKg%2FRYiMtTH9TD7tguSUH7IxtBAKXtlsQC%2BRvFW7OpexflkPOoiCkK"}]}
+Set-Cookie: AWSALB=Qq5yiBv3QI/OC8jjlhcHb6gR2a2lqFbQnBB4OKkl2ZEXwrmAhvyV9zLlHbtiPygErIAw0sBl6RhXXTBbYEqdT11q5qHsk8erjI+Qyyjkn5GR3RkCmbsYY9bMF0+7; Path=/; Expires=Mon, 01 Sep 2025 15:24:08 GMT
+Set-Cookie: AWSALBCORS=Qq5yiBv3QI/OC8jjlhcHb6gR2a2lqFbQnBB4OKkl2ZEXwrmAhvyV9zLlHbtiPygErIAw0sBl6RhXXTBbYEqdT11q5qHsk8erjI+Qyyjkn5GR3RkCmbsYY9bMF0+7; SameSite=None; Secure; Path=/; Expires=Mon, 01 Sep 2025 15:24:08 GMT
+Cf-Ray: 974c183afe3953a8-MRS
+
+{"u":"https://8aqen4wl5q.hcqogitgar.net/gs2c/playGame.do?key=token%3Dc2e1ac4f99374b2f81ad30dc11e5fccb%60%7C%60symbol%3Dvs10fortnhs%60%7C%60technology%3DH5%60%7C%60platform%3DWEB%60%7C%60language%3Dpt%60%7C%60currency%3DBRL%60%7C%60lobbyUrl%3Dhttps%3A%2F%2Fzeroum.bet%2Fcasino&ppkv=2&stylename=ips_inplaysoft&isGameUrlApiCalled=true","t":1,"st":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvcmlnaW5hbF90b2tlbiI6ImMyZTFhYzRmOTkzNzRiMmY4MWFkMzBkYzExZTVmY2NiIiwiZXhwIjoxNzU2MTM1NzQ4fQ.jqp_8gxHkPKmNVZT7khx0tlwtiUNTR6qgOqNPBwx4HQ","d":false,"r":null}
