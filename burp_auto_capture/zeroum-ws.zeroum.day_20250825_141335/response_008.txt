@@ -1,0 +1,19 @@
+HTTP/2 200 OK
+Date: Mon, 25 Aug 2025 15:20:00 GMT
+Content-Type: text/event-stream
+Server: cloudflare
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Cache-Control: no-cache,no-store
+Content-Encoding: identity
+Pragma: no-cache
+Vary: Origin
+Vary: accept-encoding
+Cf-Cache-Status: DYNAMIC
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=f%2BB1APXGqLM2QzCfOdtQZIFh1r3Foo3%2Br529EN%2FyBaHXS1JDJwrecSjtEka%2B5eERMydHtq3urIcm28%2B4iqvv0jNUNNlDlx9AMYEJgN1t%2FV%2F6wTw%3D"}]}
+Cf-Ray: 974c122caac9e018-GIG
+
+:
+data: {"error":"Handshake was canceled."}
+
