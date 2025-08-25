@@ -1,0 +1,271 @@
+{
+  "capture_timestamp": "20250825_140924", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_001.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/playGame.do?key=token%3Dc2e1ac4f99374b2f81ad30dc11e5fccb%60%7C%60symbol%3Dvs10fortnhs%60%7C%60technology%3DH5%60%7C%60platform%3DWEB%60%7C%60language%3Dpt%60%7C%60currency%3DBRL%60%7C%60lobbyUrl%3Dhttps%3A%2F%2Fzeroum.bet%2Fcasino&ppkv=2&stylename=ips_inplaysoft&isGameUrlApiCalled=true", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_001.txt", 
+      "timestamp": 1756135451842
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_002.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/html5Game.do?jackpotid=0&gname=Touro%20Sortudo%20CV&extGame=1&ext=0&cb_target=exist_tab&symbol=vs10fortnhs_cv99&jurisdictionID=BR&lobbyUrl=js://window.open(%27https%3A%2F%2Fzeroum.bet%2Fcasino%27,%27_parent%27,%27%27)&minilobby=false&mgckey=AUTHTOKEN@e120f24dcdd3a7e9917533c2f898879d5ee33df0a202ab35120007a20842bb71~stylename@ips_inplaysoft~SESSION@f57c3f37-b0f4-43c8-9bcc-0420a75e117b~SN@dc13ea52&tabName=", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_002.txt", 
+      "timestamp": 1756135454940
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_003.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/packages/pt_desktop.json?key=a1b0c", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_003.txt", 
+      "timestamp": 1756135459481
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_004.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/customizations.info?key=a1b0c", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_004.txt", 
+      "timestamp": 1756135459510
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_005.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/packages/pt_GUI_desktop.json?key=a1b0c", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_005.txt", 
+      "timestamp": 1756135459531
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_006.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/stats.do?mgckey=AUTHTOKEN@e120f24dcdd3a7e9917533c2f898879d5ee33df0a202ab35120007a20842bb71~stylename@ips_inplaysoft~SESSION@f57c3f37-b0f4-43c8-9bcc-0420a75e117b~SN@dc13ea52&channel=desktop", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_006.txt", 
+      "timestamp": 1756135459644
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_007.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/client/resources.json?key=f787c3be7f4e057681e38768f7326222", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_007.txt", 
+      "timestamp": 1756135459771
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_008.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/lobby/v1/apps/lobby/1.0.0/meta.html?mgckey=AUTHTOKEN%40e120f24dcdd3a7e9917533c2f898879d5ee33df0a202ab35120007a20842bb71~stylename%40ips_inplaysoft~SESSION%40f57c3f37-b0f4-43c8-9bcc-0420a75e117b~SN%40dc13ea52&symbol=vs10fortnhs_cv99&language=pt&currency=R$&region=Other&ingameLobbyApiURL=%2F%2F8aqen4wl5q.hcqogitgar.net%2FClientAPI%2Fminilobby%2Fcommon%2Fgames&vendor=slots&currencyOriginal=BRL&jurisdiction=BR&requirements=SHOXC_LIM100%2CGT%2CCOCA%2CSHOPTY%2CNOI%2CP_ONE%2CRUM%2CSHORID%2CLN&stylename=ips_inplaysoft", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_008.txt", 
+      "timestamp": 1756135460320
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_009.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/packages/pt_client.json?key=a1b0c", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_009.txt", 
+      "timestamp": 1756135462309
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_010.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/client/game.json?key=d8e571f1b445473452c15b08a886605c", 
+      "sequence_number": 10, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_010.txt", 
+      "timestamp": 1756135464932
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_011.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/game/GUI000.json?key=540475709a899fa824373ff76f40de2f", 
+      "sequence_number": 11, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_011.txt", 
+      "timestamp": 1756135467849
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_012.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/game/GUI001.json?key=2612ef4255d4b664cb9b7884f86dd67f", 
+      "sequence_number": 12, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_012.txt", 
+      "timestamp": 1756135467853
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_013.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/game/GUI004.json?key=331a72ff7409a18f3f8d69afeea6c084", 
+      "sequence_number": 13, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_013.txt", 
+      "timestamp": 1756135467889
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_014.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/game/GUI005.json?key=094b47fb23a5f2d72f4b41feba316229", 
+      "sequence_number": 14, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_014.txt", 
+      "timestamp": 1756135467890
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_015.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/game/GUI006.json?key=a975a2971bac386c05616fcb0097894e", 
+      "sequence_number": 15, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_015.txt", 
+      "timestamp": 1756135467891
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_016.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/game/GUI002.json?key=5d436f24dd71e7722ce6580d592d77d8", 
+      "sequence_number": 16, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_016.txt", 
+      "timestamp": 1756135467900
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_017.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/game/GUI008.json?key=64c2ce18f2afc90e1611b6948e8290ca", 
+      "sequence_number": 17, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_017.txt", 
+      "timestamp": 1756135467900
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_018.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/game/GUI003.json?key=d092fc4fc44a4d2307988ac743259b62", 
+      "sequence_number": 18, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_018.txt", 
+      "timestamp": 1756135467901
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_019.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/game/GUI007.json?key=af91185562574550f1522d13ca6c6129", 
+      "sequence_number": 19, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_019.txt", 
+      "timestamp": 1756135467902
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_020.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/game/GUI009.json?key=08f213f58cf79c11374d49c3a377468e", 
+      "sequence_number": 20, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_020.txt", 
+      "timestamp": 1756135467911
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_021.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/game/GUI011.json?key=5d5bd999fee95187469bce000d9020b6", 
+      "sequence_number": 21, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_021.txt", 
+      "timestamp": 1756135467911
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_022.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/game/GUI010.json?key=14c5c45296cb769c7eb3125979a95a1a", 
+      "sequence_number": 22, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_022.txt", 
+      "timestamp": 1756135467912
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_023.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/game/GUI_resources000.json?key=abecaa065c929427c1e5fbce4d4a3ef3", 
+      "sequence_number": 23, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_023.txt", 
+      "timestamp": 1756135470998
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_024.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/game/GUI_resources001.json?key=338ead7c481ad53786baecb6fc45f57a", 
+      "sequence_number": 24, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_024.txt", 
+      "timestamp": 1756135471004
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_025.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/game/GUI_resources002.json?key=818665995f352765e759f65c842f3d0e", 
+      "sequence_number": 25, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_025.txt", 
+      "timestamp": 1756135471059
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_026.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/game/GUI_resources003.json?key=74fe7791b659f0d6facc277d2be0a0f6", 
+      "sequence_number": 26, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_026.txt", 
+      "timestamp": 1756135471064
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_027.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/game/GUI_resources007.json?key=a11da35e559871c3c53edf1192e7c71c", 
+      "sequence_number": 27, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_027.txt", 
+      "timestamp": 1756135471064
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_028.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/game/GUI_resources005.json?key=b65b3883f2bb403451e0126ac1b63c09", 
+      "sequence_number": 28, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_028.txt", 
+      "timestamp": 1756135471068
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_029.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/game/GUI_resources004.json?key=6012f8ba19c6939882e0bca3aef941ee", 
+      "sequence_number": 29, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_029.txt", 
+      "timestamp": 1756135471072
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_030.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/game/GUI_resources006.json?key=84afb2a6b5dcfcb82ac9b9060f68676d", 
+      "sequence_number": 30, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_030.txt", 
+      "timestamp": 1756135471074
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_031.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/game/game000.json?key=0e08aa4eb6d47970ed6cc7c5dd6c8c1b", 
+      "sequence_number": 31, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_031.txt", 
+      "timestamp": 1756135474125
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_032.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/game/game002.json?key=c24ece950247bde5e52522d4c65185fc", 
+      "sequence_number": 32, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_032.txt", 
+      "timestamp": 1756135474132
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/request_033.txt", 
+      "url": "https://8aqen4wl5q.hcqogitgar.net:443/gs2c/common/v5/games-html5/games/vs/vs10fortnhs_cv99/desktop/game/game001.json?key=c4ceebe8ae190b0faae4b7be0b41c14b", 
+      "sequence_number": 33, 
+      "response_file": "burp_auto_capture/8aqen4wl5q.hcqogitgar.net_20250825_140924/response_033.txt", 
+      "timestamp": 1756135474139
+    }
+  ], 
+  "host": "8aqen4wl5q.hcqogitgar.net", 
+  "total_requests": 33
+}
