@@ -1,0 +1,12 @@
+HEAD /ESWMiawChatWebUsuario1722861636419/?lwc.mode=prod&lwr.linkHeaders=true HTTP/2
+Host: gerennet.my.site.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://gerennet.my.site.com/ESWMiawChatWebUsuario1722861636419/assets/htdocs/sitecontext.min.html?parent_domain=https%3A%2F%2Fapp.sejaefi.com.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Te: trailers
+
