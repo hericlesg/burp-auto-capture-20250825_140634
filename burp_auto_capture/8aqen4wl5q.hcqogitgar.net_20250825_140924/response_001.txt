@@ -1,0 +1,18 @@
+HTTP/2 302 Found
+Content-Length: 0
+Location: https://8aqen4wl5q.hcqogitgar.net/gs2c/html5Game.do?jackpotid=0&gname=Touro Sortudo CV&extGame=1&ext=0&cb_target=exist_tab&symbol=vs10fortnhs_cv99&jurisdictionID=BR&lobbyUrl=js://window.open('https%3A%2F%2Fzeroum.bet%2Fcasino','_parent','')&minilobby=false&mgckey=AUTHTOKEN@e120f24dcdd3a7e9917533c2f898879d5ee33df0a202ab35120007a20842bb71~stylename@ips_inplaysoft~SESSION@f57c3f37-b0f4-43c8-9bcc-0420a75e117b~SN@dc13ea52&tabName=
+Server: nginx
+Date: Mon, 25 Aug 2025 15:24:11 GMT
+Access-Control-Allow-Credentials: true
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Content-Language: pt
+Expires: Mon, 25 Aug 2025 15:24:11 GMT
+P3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Pragma: no-cache
+X-Ua-Compatible: IE=edge
+X-Cache: Miss from cloudfront
+Via: 1.1 a48e67f634f30c414a6f72e65701a908.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: GRU3-P10
+X-Amz-Cf-Id: SNVblCthJDZJnmwKjo_kbsu27-1xz-XaFN9IWtEnke2wcg8dgRWxgQ==
+
