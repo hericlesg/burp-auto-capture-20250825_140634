@@ -1,0 +1,15 @@
+HTTP/1.1 101 Switching Protocols
+Date: Mon, 25 Aug 2025 15:19:57 GMT
+Connection: upgrade
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Upgrade: websocket
+Vary: Origin
+Sec-WebSocket-Accept: ocj9gXI8BYKCiWa/AZpUmJ3CG5Y=
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=c2gyonwbG5a1EUPK7PsHhzAMeBrItX%2BFNE5Waj%2BK4GJzX2PQeBwYVm0ohtqlJml8xqPgwke7XVJz67DX2ip3cHf50Cf7m1XZWmU%2FkhSRuHzps6NEhrUrNppKbOr5kNuHCjAv5Cwm"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 974c1216f91664f3-GIG
+server-timing: cfL4;desc="?proto=TCP&rtt=27757&min_rtt=26195&rtt_var=10939&sent=6&recv=6&lost=0&retrans=0&sent_bytes=3110&recv_bytes=1454&delivery_rate=166291&cwnd=252&unsent_bytes=0&cid=32b7529849063359&ts=473&x=0"
+
