@@ -1,0 +1,103 @@
+{
+  "capture_timestamp": "20250825_141312", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/analytics.google.com_20250825_141312/request_001.txt", 
+      "url": "https://analytics.google.com:443/g/s/collect?dma=0&npa=0&gcd=13l3l3l3l1l1&gtm=45P91e58k1v9187957930z89187974028z99226831139za200zb9187974028zd9187974028&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105399921~105399923&_is_sw=0&_tu=BA&_gsid=R38GP7L2V4zjUyGpEHkykTJQO9QetGbw", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/analytics.google.com_20250825_141312/response_001.txt", 
+      "timestamp": 1756135272512
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/analytics.google.com_20250825_141312/request_002.txt", 
+      "url": "https://analytics.google.com:443/g/s/collect?dma=0&npa=0&gcd=13l3l3l3l1l1&gtm=45P91e58l0h2v9187957930z99226831139za200zb9187974028zd9187974028&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105399921~105399923&_is_sw=0&_tu=BA&_gsid=R38GP7L2V4zjUyGpEHkykTJQO9QetGbw", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/analytics.google.com_20250825_141312/response_002.txt", 
+      "timestamp": 1756135273841
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/analytics.google.com_20250825_141312/request_003.txt", 
+      "url": "https://analytics.google.com:443/g/collect?v=2&tid=G-JDQG84BJK7&gtm=45je58l0v9119364028za200zb6665191zd6665191&_p=1756141583686&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~102015666~103116026~103200004~103233427~104527907~104528501~104684208~104684211~104948813~105399921~105399923&cid=1670215502.1752292318&ecid=1384143506&ul=pt-br&sr=2560x1080&frm=0&pscdl=noapi&_eu=AEEAAAQ&_s=3&sid=1756141517&sct=7&seg=1&dl=https%3A%2F%2Flogin.sejaefi.com.br%2Foauth%2Fauthorize%3Fredirect_to%3Dhttps%3A%2F%2Fapp.sejaefi.com.br%2F&dr=https%3A%2F%2Fapp.sejaefi.com.br%2F&dt=Ef%C3%AD%20-%20Login&en=form_start&ep.form_id=loginForm&ep.form_name=&ep.form_destination=https%3A%2F%2Flogin.sejaefi.com.br%2Foauth%2Fauthorize%3Fredirect_to%3Dhttps%3A%2F%2Fapp.sejaefi.com.br%2F&epn.form_length=10&ep.first_field_id=username&ep.first_field_name=username&ep.first_field_type=text&epn.first_field_position=1&_et=8736&tfd=26556", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/analytics.google.com_20250825_141312/response_003.txt", 
+      "timestamp": 1756141609651
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/analytics.google.com_20250825_141312/request_004.txt", 
+      "url": "https://analytics.google.com:443/g/collect?v=2&tid=G-JDQG84BJK7&gtm=45je58l0v9119364028za200zb6665191zd6665191&_p=1756141583686&em=tv.1~em.rk2AWIdYME7cnjtLqnvjzowMhXJpMaUepJoRlbnW0eo&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~102015666~103116026~103200004~103233427~104527907~104528501~104684208~104684211~104948813~105399921~105399923&cid=1670215502.1752292318&ecid=1384143506&ul=pt-br&sr=2560x1080&frm=0&pscdl=noapi&ec_mode=a&_eu=AEEAAAQ&_s=4&sid=1756141517&sct=7&seg=1&dl=https%3A%2F%2Flogin.sejaefi.com.br%2Foauth%2Fauthorize%3Fredirect_to%3Dhttps%3A%2F%2Fapp.sejaefi.com.br%2F&dr=https%3A%2F%2Fapp.sejaefi.com.br%2F&dt=Ef%C3%AD%20-%20Login&en=form_submit&ep.form_id=loginForm&ep.form_name=&ep.form_destination=https%3A%2F%2Flogin.sejaefi.com.br%2Foauth%2Fauthorize%3Fredirect_to%3Dhttps%3A%2F%2Fapp.sejaefi.com.br%2F&epn.form_length=12&_et=840&tfd=26556", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/analytics.google.com_20250825_141312/response_004.txt", 
+      "timestamp": 1756141609655
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/analytics.google.com_20250825_141312/request_005.txt", 
+      "url": "https://analytics.google.com:443/g/collect?v=2&tid=G-JDQG84BJK7&gtm=45je58l0v9119364028za200zb6665191zd6665191&_p=1756141583686&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~102015666~103116026~103200004~103233427~104527907~104528501~104684208~104684211~104948813~105399921~105399923&cid=1670215502.1752292318&ecid=1384143506&ul=pt-br&sr=2560x1080&frm=0&pscdl=noapi&_eu=AAAAAAQ&_s=5&sid=1756141517&sct=7&seg=1&dl=https%3A%2F%2Flogin.sejaefi.com.br%2Foauth%2Fauthorize%3Fredirect_to%3Dhttps%3A%2F%2Fapp.sejaefi.com.br%2F&dr=https%3A%2F%2Fapp.sejaefi.com.br%2F&dt=Ef%C3%AD%20-%20Login&en=user_engagement&_et=3853&tfd=57809", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/analytics.google.com_20250825_141312/response_005.txt", 
+      "timestamp": 1756141640968
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/analytics.google.com_20250825_141312/request_006.txt", 
+      "url": "https://analytics.google.com:443/g/collect?v=2&tid=G-JDQG84BJK7&gtm=45je58l0v9119364028z86665191za200zb6665191zd6665191&_p=1756141640322&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~102015666~103116026~103200004~103233427~104527906~104528501~104684208~104684211~104948813~105399921~105399923&cid=1670215502.1752292318&ecid=1384143506&ul=pt-br&sr=2560x1080&frm=0&pscdl=noapi&ec_mode=a&_eu=AAAACAQ&_s=1&uid=ae4d80588758304edc9e3b4baa7be3ce8c0c85726931a51ea49a1195b9d6d1ea&sid=1756141517&sct=7&seg=1&dl=https%3A%2F%2Fapp.sejaefi.com.br%2Fhome&dr=https%3A%2F%2Flogin.sejaefi.com.br%2F&dt=Ef%C3%AD&en=page_view&tfd=31782", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/analytics.google.com_20250825_141312/response_006.txt", 
+      "timestamp": 1756141641276
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/analytics.google.com_20250825_141312/request_007.txt", 
+      "url": "https://analytics.google.com:443/g/collect?v=2&tid=G-JDQG84BJK7&gtm=45je58l0v9119364028za200zb6665191zd6665191&_p=1756141640322&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~102015666~103116026~103200004~103233427~104527906~104528501~104684208~104684211~104948813~105399921~105399923&cid=1670215502.1752292318&ecid=1384143506&ul=pt-br&sr=2560x1080&frm=0&pscdl=noapi&_eu=AEAAAAQ&_s=2&uid=ae4d80588758304edc9e3b4baa7be3ce8c0c85726931a51ea49a1195b9d6d1ea&sid=1756141517&sct=7&seg=1&dl=https%3A%2F%2Fapp.sejaefi.com.br%2Fhome&dr=https%3A%2F%2Flogin.sejaefi.com.br%2F&dt=Ef%C3%AD&en=scroll&epn.percent_scrolled=90&tfd=36806", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/analytics.google.com_20250825_141312/response_007.txt", 
+      "timestamp": 1756141646296
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/analytics.google.com_20250825_141312/request_008.txt", 
+      "url": "https://analytics.google.com:443/g/collect?v=2&tid=G-JDQG84BJK7&gtm=45je58l0v9119364028z86665191za200zb6665191zd6665191&_p=1756141640322&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~102015666~103116026~103200004~103233427~104527906~104528501~104684208~104684211~104948813~105399921~105399923&cid=1670215502.1752292318&ecid=1384143506&ul=pt-br&sr=2560x1080&frm=0&pscdl=noapi&_eu=AAAAAAQ&_s=3&uid=ae4d80588758304edc9e3b4baa7be3ce8c0c85726931a51ea49a1195b9d6d1ea&sid=1756141517&sct=7&seg=1&dl=https%3A%2F%2Fapp.sejaefi.com.br%2Fhome&dr=https%3A%2F%2Flogin.sejaefi.com.br%2F&dt=Ef%C3%AD&en=login&up.user_id=ae4d80588758304edc9e3b4baa7be3ce8c0c85726931a51ea49a1195b9d6d1ea&tfd=50774", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/analytics.google.com_20250825_141312/response_008.txt", 
+      "timestamp": 1756141660261
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/analytics.google.com_20250825_141312/request_009.txt", 
+      "url": "https://analytics.google.com:443/g/collect?v=2&tid=G-JDQG84BJK7&gtm=45je58l0v9119364028za200zb6665191zd6665191&_p=1756141640322&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~102015666~103116026~103200004~103233427~104527906~104528501~104684208~104684211~104948813~105399921~105399923&cid=1670215502.1752292318&ecid=1384143506&ul=pt-br&sr=2560x1080&frm=0&pscdl=noapi&ec_mode=a&_eu=AEAAAAQ&_s=4&uid=ae4d80588758304edc9e3b4baa7be3ce8c0c85726931a51ea49a1195b9d6d1ea&dl=https%3A%2F%2Fapp.sejaefi.com.br%2Fpix%2Ffazer-pix&dr=https%3A%2F%2Fapp.sejaefi.com.br%2Fhome&sid=1756141517&sct=7&seg=1&dt=Ef%C3%AD&en=page_view&_et=5520&tfd=57733", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/analytics.google.com_20250825_141312/response_009.txt", 
+      "timestamp": 1756141667216
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/analytics.google.com_20250825_141312/request_010.txt", 
+      "url": "https://analytics.google.com:443/g/collect?v=2&tid=G-JDQG84BJK7&gtm=45je58l0v9119364028za200zb6665191zd6665191&_p=1756141640322&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~102015666~103116026~103200004~103233427~104527906~104528501~104684208~104684211~104948813~105399921~105399923&cid=1670215502.1752292318&ecid=1384143506&ul=pt-br&sr=2560x1080&frm=0&pscdl=noapi&ec_mode=a&_eu=AEAAAAQ&_s=5&uid=ae4d80588758304edc9e3b4baa7be3ce8c0c85726931a51ea49a1195b9d6d1ea&dl=https%3A%2F%2Fapp.sejaefi.com.br%2Fpix%2Ffazer-pix%2Fchave&dr=https%3A%2F%2Fapp.sejaefi.com.br%2Fpix%2Ffazer-pix&sid=1756141517&sct=7&seg=1&dt=Ef%C3%AD&en=page_view&_et=1322&tfd=59059", 
+      "sequence_number": 10, 
+      "response_file": "burp_auto_capture/analytics.google.com_20250825_141312/response_010.txt", 
+      "timestamp": 1756141668553
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/analytics.google.com_20250825_141312/request_011.txt", 
+      "url": "https://analytics.google.com:443/g/collect?v=2&tid=G-JDQG84BJK7&gtm=45je58l0v9119364028za200zb6665191zd6665191&_p=1756141640322&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~102015666~103116026~103200004~103233427~104527906~104528501~104684208~104684211~104948813~105399921~105399923&cid=1670215502.1752292318&ecid=1384143506&ul=pt-br&sr=2560x1080&frm=0&pscdl=noapi&_eu=AEEAAAQ&_s=6&uid=ae4d80588758304edc9e3b4baa7be3ce8c0c85726931a51ea49a1195b9d6d1ea&sid=1756141517&sct=7&seg=1&dl=https%3A%2F%2Fapp.sejaefi.com.br%2Fpix%2Ffazer-pix%2Fchave&dr=https%3A%2F%2Fapp.sejaefi.com.br%2Fpix%2Ffazer-pix&dt=Ef%C3%AD&en=form_start&ep.form_id=&ep.form_name=&ep.form_destination=https%3A%2F%2Fapp.sejaefi.com.br%2Fpix%2Ffazer-pix%2Fchave&epn.form_length=5&ep.first_field_id=&ep.first_field_name=&ep.first_field_type=text&epn.first_field_position=1&_et=2888&tfd=74605", 
+      "sequence_number": 11, 
+      "response_file": "burp_auto_capture/analytics.google.com_20250825_141312/response_011.txt", 
+      "timestamp": 1756141684206
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/analytics.google.com_20250825_141312/request_012.txt", 
+      "url": "https://analytics.google.com:443/g/collect?v=2&tid=G-JDQG84BJK7&gtm=45je58l0v9119364028za200zb6665191zd6665191&_p=1756141640322&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~102015666~103116026~103200004~103233427~104527906~104528501~104684208~104684211~104948813~105399921~105399923&cid=1670215502.1752292318&ecid=1384143506&ul=pt-br&sr=2560x1080&frm=0&pscdl=noapi&ec_mode=a&_eu=AEAAAAQ&_s=7&uid=ae4d80588758304edc9e3b4baa7be3ce8c0c85726931a51ea49a1195b9d6d1ea&dl=https%3A%2F%2Fapp.sejaefi.com.br%2Fpix%2Ffazer-pix&dr=https%3A%2F%2Fapp.sejaefi.com.br%2Fpix%2Ffazer-pix%2Fchave&sid=1756141517&sct=7&seg=1&dt=Ef%C3%AD&en=page_view&_et=44087&tfd=113695", 
+      "sequence_number": 12, 
+      "response_file": "burp_auto_capture/analytics.google.com_20250825_141312/response_012.txt", 
+      "timestamp": 1756141723275
+    }
+  ], 
+  "host": "analytics.google.com", 
+  "total_requests": 12
+}
