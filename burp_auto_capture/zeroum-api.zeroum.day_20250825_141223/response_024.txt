@@ -1,0 +1,21 @@
+HTTP/2 200 OK
+Date: Mon, 25 Aug 2025 15:20:15 GMT
+Content-Type: application/json; charset=utf-8
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+Vary: Origin
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=uYm31dKUBqKKstkfM%2B74ELo51F8%2FOo%2B%2FrLNbP8WLAUy6im%2Fw%2BpK%2BA7wAaM3bAEYpe%2FkD58fcnzT4%2BD9nUaJuLuVtfda8TP%2Byd4kGcoMorbvtM6LD"}]}
+Set-Cookie: AWSALB=GnI+TyGBw6cms3w3dGgJbD9pGZ9AP2CJhkaaelKhEED8qVNxuVT3yNhQq99rCvvxaq+lUW8+5NlHabAmXxVjXSadOfpigmjqKYqh46rzqGJV/Zw903JyN7wn19UJ; Path=/; Expires=Mon, 01 Sep 2025 15:20:14 GMT
+Set-Cookie: AWSALBCORS=GnI+TyGBw6cms3w3dGgJbD9pGZ9AP2CJhkaaelKhEED8qVNxuVT3yNhQq99rCvvxaq+lUW8+5NlHabAmXxVjXSadOfpigmjqKYqh46rzqGJV/Zw903JyN7wn19UJ; SameSite=None; Secure; Path=/; Expires=Mon, 01 Sep 2025 15:20:14 GMT
+Cf-Ray: 974c12831c0c556d-CDG
+
+{"firstName":"Cleonir","address":" 49 AV MINAS GERAIS ","city":"ACREUNA","zip":"75960000","state":"GO","district":"N ACREUNA"}
