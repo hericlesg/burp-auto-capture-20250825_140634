@@ -1,0 +1,15 @@
+GET /gs2c/common/lobby/v1/apps/lobby/1.0.0/meta.html?mgckey=AUTHTOKEN%40e120f24dcdd3a7e9917533c2f898879d5ee33df0a202ab35120007a20842bb71~stylename%40ips_inplaysoft~SESSION%40f57c3f37-b0f4-43c8-9bcc-0420a75e117b~SN%40dc13ea52&symbol=vs10fortnhs_cv99&language=pt&currency=R$&region=Other&ingameLobbyApiURL=%2F%2F8aqen4wl5q.hcqogitgar.net%2FClientAPI%2Fminilobby%2Fcommon%2Fgames&vendor=slots&currencyOriginal=BRL&jurisdiction=BR&requirements=SHOXC_LIM100%2CGT%2CCOCA%2CSHOPTY%2CNOI%2CP_ONE%2CRUM%2CSHORID%2CLN&stylename=ips_inplaysoft HTTP/2
+Host: 8aqen4wl5q.hcqogitgar.net
+Cookie: _ga=GA1.3.1775327751.1756135458; _gid=GA1.3.7025177.1756135458
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://8aqen4wl5q.hcqogitgar.net/gs2c/html5Game.do?jackpotid=0&gname=Touro%20Sortudo%20CV&extGame=1&ext=0&cb_target=exist_tab&symbol=vs10fortnhs_cv99&jurisdictionID=BR&lobbyUrl=js://window.open(%27https%3A%2F%2Fzeroum.bet%2Fcasino%27,%27_parent%27,%27%27)&minilobby=false&mgckey=AUTHTOKEN@e120f24dcdd3a7e9917533c2f898879d5ee33df0a202ab35120007a20842bb71~stylename@ips_inplaysoft~SESSION@f57c3f37-b0f4-43c8-9bcc-0420a75e117b~SN@dc13ea52&tabName=
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: iframe
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Priority: u=4
+Te: trailers
+
