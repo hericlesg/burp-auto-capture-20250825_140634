@@ -1,0 +1,19 @@
+POST /collect HTTP/1.1
+Host: b.clarity.ms
+Cookie: MUID=08E9BC3E447E66CB00ADAA7845346719
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://www.zeroum.bet/
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 815
+Origin: https://www.zeroum.bet
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+Connection: close
+
+{"e":["0.8.26",11,49713,3974,"rjz72wzpkd","16g1myi","o2xhee",4,1,1,0,"https://www.zeroum.bet/"],"a":[[53687,2,7,2,0],[49712,4,1,1144,4099,1127,937,0,0,309,178,49663,0,27140,309,178,26718,309,178,27046,309,178,27140,309,178,27140],[53687,0,2,1254,3,1,4,10,5,3,25,6],[53687,36,6,[52668,0,53682,0]],[53687,35,3]],"p":[[52668,6,278,215,277,"SWIPER-SLIDE","class=ips-banner-slide","style=margin-right: 10px;","role=group",279,215,278,[5],"class=ips-banner-slide swiper-slide-prev",[7,8],280,215,279,[5],"class=ips-banner-slide swiper-slide-active",[7,8],281,215,280,[5],"class=ips-banner-slide swiper-slide-next",[7,8]],[52668,6,580,387,579,"DIV","class=swiper-wrapper","part=wrapper","id=swiper-wrapper-4ff36d9f84af8a1d","aria-live=off","style=transform: translate3d(-1320px, 0px, 0px); transition-duration: 1000ms;"]]}
