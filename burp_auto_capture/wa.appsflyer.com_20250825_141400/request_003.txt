@@ -1,0 +1,17 @@
+POST /events?site-id=a9bc0432-1b11-407e-9115-57a31ea483fb HTTP/2
+Host: wa.appsflyer.com
+Cookie: af_id=e41397da-a8dc-48ce-8e05-094f38855219-p
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://app.sejaefi.com.br/
+Content-Type: text/plain
+Content-Length: 1391
+Origin: https://app.sejaefi.com.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Te: trailers
+
+{"data":{"eventType":"EVENT","eventName":"af_login","afWebUserId":"e41397da-a8dc-48ce-8e05-094f38855219-p","webAppId":"a9bc0432-1b11-407e-9115-57a31ea483fb"},"meta":{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0","webDriver":"NOT_SUPPORTED","languageKey":"pt-BR","colorDepthKey":24,"cookieEnabled":true,"deviceMemoryKey":-1,"pixelRatioKey":1,"screenResolutionWidth":2560,"screenResolutionHeight":1080,"locationHref":"https://app.sejaefi.com.br/home","locationSearch":"","locationOrigin":"https://app.sejaefi.com.br","screenOrientation":{"angle":0,"type":"landscape-primary"},"availableScreenResolutionWidth":2560,"availableScreenResolutionHeight":1040,"timezoneOffset":180,"timeZone":"America/Sao_Paulo","sessionStorageKey":"ENABLED","localStorageKey":"ENABLED","indexedDbKey":"ENABLED","addBehaviorKey":"NOT_SUPPORTED","openDatabaseKey":"NOT_SUPPORTED","cpuClassKey":"NOT_SUPPORTED","platformKey":"ENABLED","doNotTrackKey":"ENABLED","isCanvasSupported":"ENABLED","adBlockKey":"DISABLED","hasLiedLanguagesKey":"DISABLED","javaEnabled":"DISABLED","deviceClockSpeed":32299,"loadEventStart":0,"loadEventEnd":0,"loadTime":0,"documentLoad":31631,"version":{"BASE":"0.0.54","PBA":"0.0.54","BANNERS":"0.0.54"},"query":{},"referrer":"https://login.sejaefi.com.br/","timestamp":1756141654538,"lastInteractionTimestamp":1756141641081,"isDevMode":false}}
