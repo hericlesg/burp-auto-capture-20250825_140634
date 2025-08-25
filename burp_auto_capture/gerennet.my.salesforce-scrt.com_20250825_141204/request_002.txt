@@ -1,0 +1,13 @@
+GET /embeddedservice/v1/embedded-service-config?orgId=00D5Y000002VYlI&esConfigName=Miaw_Chat_Web_Usuario_Verificado&language=pt_BR HTTP/2
+Host: gerennet.my.salesforce-scrt.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://app.sejaefi.com.br/
+Origin: https://app.sejaefi.com.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Te: trailers
+
