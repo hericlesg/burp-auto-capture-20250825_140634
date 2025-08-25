@@ -1,0 +1,21 @@
+HTTP/2 200 OK
+Date: Mon, 25 Aug 2025 15:19:14 GMT
+Content-Type: application/json; charset=utf-8
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+Vary: Origin
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=eLvfPftWVbP05HlabV3lCtObTK9P46mUjOMqBNZWxXlqJIxY15o5Y0LU%2FVRDOb53qglyzdLjycXFbiCbkQy3HuOlpy2TYiyS8S044qVJdDZokPgM"}]}
+Set-Cookie: AWSALB=WGpN8GQeesx1yp4vUA9tJMUwxafVpChww4M1m+agIJKTrbDyTADvuZO3gEW0m7EftwoVfJ3CoL2dUJngSkWnVXkIHorASdC041LRU5vTgCm2vOfJRUKO0F4np11c; Path=/; Expires=Mon, 01 Sep 2025 15:19:14 GMT
+Set-Cookie: AWSALBCORS=WGpN8GQeesx1yp4vUA9tJMUwxafVpChww4M1m+agIJKTrbDyTADvuZO3gEW0m7EftwoVfJ3CoL2dUJngSkWnVXkIHorASdC041LRU5vTgCm2vOfJRUKO0F4np11c; SameSite=None; Secure; Path=/; Expires=Mon, 01 Sep 2025 15:19:14 GMT
+Cf-Ray: 974c110d3b3fe167-MRS
+
+[{"ps":32,"pn":"Fortune Mouse","s":"fortunemouse","prs":"pgsoft","prn":"PGSoft","bt":"2025-08-25T15:19:02.415Z","p":"Jhuan","ba":0.5000,"wa":10.3000,"i":"/assets/images/products/fortune_mouse.webp","m":20.6},{"ps":2004226,"pn":"Fortune Gems","s":"fortunegems","prs":"tada","prn":"Tada","bt":"2025-08-25T15:19:02.415Z","p":"Driely","ba":0.4000,"wa":7.2000,"i":"/assets/images/products/tada/gb_fortune\u2028gems_420x560_1803.webp","m":18.0},{"ps":34,"pn":"Fortune Rabbit","s":"fortunerabbit","prs":"pgsoft","prn":"PGSoft","bt":"2025-08-25T15:19:02.374Z","p":"Cleidiane","ba":0.5000,"wa":11.0000,"i":"/assets/images/products/fortune_rabbit.webp","m":22.0},{"ps":2000284,"pn":"Fortune Dragon","s":"fortunedragon","prs":"pgsoft","prn":"PGSoft","bt":"2025-08-25T15:19:02.319Z","p":"CLAYTON","ba":0.8000,"wa":8.0000,"i":"/assets/images/products/pgsoft/fortune_dragon.webp","m":10.0},{"ps":34,"pn":"Fortune Rabbit","s":"fortunerabbit","prs":"pgsoft","prn":"PGSoft","bt":"2025-08-25T15:19:02.063Z","p":"Renata","ba":4.0000,"wa":40.0000,"i":"/assets/images/products/fortune_rabbit.webp","m":10.0},{"ps":54096,"pn":"Gates of Olympus","s":"gatesofolympus","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2025-08-25T15:18:53.981Z","p":"Vivian","ba":0.2500,"wa":2.7000,"i":"/assets/images/products/pragmaticplay/gates_of_olympus.webp","m":10.8},{"ps":54167,"pn":"Jade Butterfly","s":"jadebutterfly","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2025-08-25T15:19:00.575Z","p":"Felipe","ba":1.6800,"wa":19.2000,"i":"/assets/images/products/pragmaticplay/jade_butterfly.webp","m":11.4},{"ps":33,"pn":"Fortune Ox","s":"fortuneox","prs":"pgsoft","prn":"PGSoft","bt":"2025-08-25T15:19:00.664Z","p":"Amanda","ba":0.5000,"wa":10.0000,"i":"/assets/images/products/fortune_ox.webp","m":20.0},{"ps":33,"pn":"Fortune Ox","s":"fortuneox","prs":"pgsoft","prn":"PGSoft","bt":"2025-08-25T15:19:00.619Z","p":"Rayana","ba":1.0000,"wa":10.0000,"i":"/assets/images/products/fortune_ox.webp","m":10.0},{"ps":33,"pn":"Fortune Ox","s":"fortuneox","prs":"pgsoft","prn":"PGSoft","bt":"2025-08-25T15:19:00.368Z","p":"RAQUEL","ba":0.5000,"wa":12.6500,"i":"/assets/images/products/fortune_ox.webp","m":25.3}]
